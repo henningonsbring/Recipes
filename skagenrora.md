@@ -18,3 +18,6 @@ Adapted from: https://www.mathem.se/se/recipes/525-mari-bergman-skagenrora/?port
 4. Add black pepper, salt, lemon juice and mix
 5. Add mayonnaise, creme fraiche and mix
 6. Add shrimps and mix
+
+## Serving Suggestions
+Baked potatoes: 225 °C in the oven for 60 min
