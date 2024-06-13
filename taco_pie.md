@@ -22,7 +22,7 @@
 4. Distribute the dough in the pie dish, prick the bottom with a fork and store in the fridge
 5. Start oven and set temperature to 200 °C
 6. Chop and then fry the onions
-7. When onions are transparent add the meat to the pan
+7. When onions are transparent add the minced meat to the pan
 8. Pre-bake the dough for 12 min in 200 °C
 9. When no more raw meat is visible add the taco spice
 10. Add the filling to the pie dish
