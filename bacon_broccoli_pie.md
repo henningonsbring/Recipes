@@ -1,4 +1,4 @@
-# Salsiccia pie
+# Bacon broccoli pie
 Adapted from: https://www.gittans.nu/2017/02/13/min-goda-bacon-och-broccolipaj/
 ## Ingredients
 ### Pie dough
