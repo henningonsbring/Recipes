@@ -1,4 +1,4 @@
-# Smördegsinbakad portabello
+# Portobello wrapped in puff pastry
 Adapted from: http://matochmera.se/recepie.php?recepie_id=26136
 ## Ingredients
 - 2x portobello mushrooms
