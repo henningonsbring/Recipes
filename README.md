@@ -1,5 +1,5 @@
 # Recipes sorted by category
-## Mushroom Dishes
+## Mushroom dishes
 [Portobello wrapped in puff pastry](https://github.com/henningonsbring/Recipes/blob/main/portobello_wrapped_in_puff_pastry.md)
 ## Pasta
 [Salsiccia pasta](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pasta.md)
