@@ -18,6 +18,6 @@ Adapted from: https://www.ica.se/recept/quiche-lorraine-870/
 2. Distribute the dough in a pie dish, prick the bottom with a fork and let it rest in the fridge for 30 min
 3. Pre-bake the dough in the lower part of the oven for 10 min in 200 °C
 4. Mix ham strips and cheese, then add to the pie dish
-5. Whip cream and milk together, add black pepper
-6. Pour the milk-cream-pepper-mix over the ham and cheese
+5. Whip egg, cream and milk together, add black pepper
+6. Pour the egg-milk-cream-mix over the ham and cheese
 7. Bake in the lower part of the oven for 30-40 min in 200 °C
