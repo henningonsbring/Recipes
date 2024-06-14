@@ -3,7 +3,7 @@
 [Portobello wrapped in puff pastry](https://github.com/henningonsbring/Recipes/blob/main/portobello_wrapped_in_puff_pastry.md)
 ## Pasta
 [Salsiccia pasta](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pasta.md)
-## Pies
+## Pie
 [Bacon broccolie pie](https://github.com/henningonsbring/Recipes/blob/main/bacon_broccoli_pie.md)<br>
 [Quiche Lorraine](https://github.com/henningonsbring/Recipes/blob/main/quiche_lorraine.md)<br>
 [Salsiccia pie](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pie.md)<br>
