@@ -7,7 +7,7 @@ Adapted from: https://www.koket.se/kramig-salsicciapasta
 - 2x garlic cloves
 - 400 g tomatoes (e.g. Romantica tomatoes)
 - 1x pot of basil
-- 3x dl cream
+- 3 dl cream
 - 40 g parmesan cheese
 - Olive oil (for frying)
 - Salt
