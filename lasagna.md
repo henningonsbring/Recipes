@@ -26,17 +26,20 @@ Adapted from: https://www.mathem.se/se/recipes/682-mari-bergman-klassisk-lasagne
 ### Topping
 - 75 g grated cheese (e.g. Västerbottensost)
 ## Procedure
+### Meat sauce
 1. Chop the yellow onion and press the garlic
 2. Fry the onion and garlic until transparent
 3. Add the minced meat to the pan, fry until no raw meat can be seen
 4. Add basil, oregano, tomato paste, balsamic vinegar and fry on high temperature while stirring for 20 sec.
 5. Add crushed tomatoes, water, vegetable bouillon, salt, black pepper and let boil on a low temperature for 10 minutes
+### Bechamel sauce
 6. Melt the butter in a pot
 7. Add the flour and whip until homogenous
 8. Add the milk while stirring
 9. Bring to boil at a low temperature, and keep boiling at low heat until the sauce thickens
-10. Add the cheese, salt and white pepper to the pot
-11. Add a third of the meat sauce to the bottom of a lasagna dish, then add one layer of lasagna sheets, followed by a third if the bechamel sauce
+10. Add the cheese, salt and white pepper to the pot and whip everything together
+### Assemble the lasagna
+12. Add a third of the meat sauce to the bottom of a lasagna dish, then add one layer of lasagna sheets, followed by a third if the bechamel sauce, and then a layer of lasagna sheets
 12. Repeat step 10 with the same amount of sauce twice
 13. Add grated cheese on top
 14. Bake for 30 min in 200 °C
