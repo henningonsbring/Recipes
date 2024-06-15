@@ -39,7 +39,7 @@ Adapted from: https://www.mathem.se/se/recipes/682-mari-bergman-klassisk-lasagne
 9. Bring to boil at a low temperature, and keep boiling at low heat until the sauce thickens
 10. Add the cheese, salt and white pepper to the pot and whip everything together
 ### Assemble the lasagna
-12. Add a third of the meat sauce to the bottom of a lasagna dish, then add one layer of lasagna sheets, followed by a third if the bechamel sauce, and then a layer of lasagna sheets
+11. Add a third of the meat sauce to the bottom of a lasagna dish, then add one layer of lasagna sheets, followed by a third if the bechamel sauce, and then a layer of lasagna sheets
 12. Repeat step 10 with the same amount of sauce twice
 13. Add grated cheese on top
 14. Bake for 30 min in 200 °C
