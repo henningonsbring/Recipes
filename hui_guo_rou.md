@@ -1,7 +1,7 @@
 # Hui Guo Rou (回鍋肉)
 ## Ingredients
 - 400 g green long paprika
-- 500 g pork (sidfläsk)
+- 500 g pork belly
 - 2x red onions
 - 4x garlic cloves
 - 1 tsk Sichuan pepper
