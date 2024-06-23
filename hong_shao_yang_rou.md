@@ -28,7 +28,7 @@
 15. High heat until it is boiled then boil at low temperature.
 16. Wait for 50-60 minutes (add carrots after 30 minutes, if you prefer softer carrots, you can add into pot earlier)
 17. Meanwhile slice carrots in a rolling way, cut into the triangle pieces.
-18. Open the lid, turn on high heat to make the rest of the sauce evaporating, while absorbed by lamb. When you see the source become more condense, that is good to turn off the heat (Depend on how much source you like).
+18. Open the lid, turn on high heat to make the rest of the sauce evaporating, while absorbed by lamb. When you see the source become more condense, that is good to turn off the heat (Depend on how much sauce you like).
 19. Add 1 tsp sugar
 20. Add 1 tsp white pepper
 21. Stir evenly
