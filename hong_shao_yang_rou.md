@@ -1,6 +1,6 @@
 # Hong Shao Yang Rou (红烧羊肉)
 ## Ingredients
-- Lamb 600 g
+- 600 g lamb
 - 6x carrots
 - Garlic, ginger, green onion
 - Rosemary
