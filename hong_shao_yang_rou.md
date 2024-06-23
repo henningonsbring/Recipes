@@ -18,7 +18,7 @@
 5. Prepare 3 tsk Sichuan pepper aside
 6. Cooking oil into pan, Sichuan pepper and dry chili go first, wait the oil heat together with pepper and chili
 7. When you can smell pepper and chili, put the ginger, garlic, green onion white part into pan at medium heat
-8. Frying things above until you smell nice, avoid garlic, ginger stuff become brown, that means heat is too high.
+8. Keep frying until you smell the chili and pepper, avoid garlic, ginger stuff become brown, that means heat is too high.
 9. Put lamb into pan and increase the heat, fry until lamb surface become white
 10. Add Chinese cooking wine 1/2 dl, frying a little bit, until you feel the lamb absorb the cooking wine (60% absorbed)
 11. Add light soy sauce 1 dl, and 1 tsk salt make it evenly distributed.
