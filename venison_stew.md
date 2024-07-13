@@ -5,7 +5,7 @@ Adapted from: https://receptfavoriter.se/recept/viltskavsgryta-renskavsgryta.htm
 - 1 yellow onion
 - 10 champignons
 - 3 msk butter
-- msk oliver oil
+- 1 msk oliver oil
 - 3 juniper berries
 - 1 msk black currant jelly
 - 2 krm salt
