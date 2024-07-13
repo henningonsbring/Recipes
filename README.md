@@ -1,4 +1,8 @@
-# Recipes sorted by category
+# Browse Recipes
+[Category](https://github.com/henningonsbring/Recipes#recipes-sorted-by-category)<br>
+[Region](https://github.com/henningonsbring/Recipes#recipes-sorted-by-region-of-inspiration)<br>
+[Alphabetically](https://github.com/henningonsbring/Recipes#recipes-sorted-alphabetically)
+# Recipes Sorted by Category
 ## Husmanskost
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
 [Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
@@ -25,7 +29,7 @@
 [Venison stew](https://github.com/henningonsbring/Recipes/blob/main/venison_stew.md)
 ## Wok
 [Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)
-# Recipes sorted by region of inspiration
+# Recipes Sorted by Region of Inspiration
 ## China
 [Gongbao Xiaqiu (宫保虾球)](https://github.com/henningonsbring/Recipes/blob/main/gongbao_xiaqiu.md)<br>
 [Hong Shao Yang Rou (红烧羊肉)](https://github.com/henningonsbring/Recipes/blob/main/hong_shao_yang_rou.md)<br>
@@ -50,7 +54,7 @@
 [Portobello wrapped in puff pastry](https://github.com/henningonsbring/Recipes/blob/main/portobello_wrapped_in_puff_pastry.md)<br>
 [Skagenröra](https://github.com/henningonsbring/Recipes/blob/main/skagenrora.md)<br>
 [Venison stew](https://github.com/henningonsbring/Recipes/blob/main/venison_stew.md)
-# Recipes sorted alphabetically
+# Recipes Sorted Alphabetically
 [Bacon broccolie pie](https://github.com/henningonsbring/Recipes/blob/main/bacon_broccoli_pie.md)<br>
 [Boeuf bourguignon](https://github.com/henningonsbring/Recipes/blob/main/boeuf_bourguignon.md)<br>
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
