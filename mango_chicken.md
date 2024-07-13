@@ -20,4 +20,5 @@
 8. Keep boiling at low heat for 15 minutes
 9. Add paprika and boil until preferred softness
 10. Add mango
-11. Serve with rice
+11. Taste the sauce and add more salt if needed
+12. Serve with rice
