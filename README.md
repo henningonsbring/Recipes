@@ -1,7 +1,4 @@
-# Browse Recipes
-[Category](https://github.com/henningonsbring/Recipes#recipes-sorted-by-category)<br>
-[Region](https://github.com/henningonsbring/Recipes#recipes-sorted-by-region-of-inspiration)<br>
-[Alphabetically](https://github.com/henningonsbring/Recipes#recipes-sorted-alphabetically)
+Navigate the recipes by [category](https://github.com/henningonsbring/Recipes#recipes-sorted-by-category), by [region](https://github.com/henningonsbring/Recipes#recipes-sorted-by-region-of-inspiration), or [alphabetically](https://github.com/henningonsbring/Recipes#recipes-sorted-alphabetically)
 # Recipes Sorted by Category
 ## Husmanskost
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
