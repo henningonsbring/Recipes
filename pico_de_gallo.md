@@ -9,7 +9,7 @@ Adapted from: https://www.arla.se/recept/tomatsalsa-pico-de-gallo/
 - Coriander (half pot)
 ## Procedure
 1. Chop the tomatoes into small dices and place in a sieve
-2. Chop chili, onion and coriander into small pieces
-3. Mix tomatoes, chili, onion and coriander
+2. Chop chili, onion, and coriander into small pieces
+3. Mix tomatoes, chili, onion, and coriander
 4. Add juice from the lime
 5. Add salt
