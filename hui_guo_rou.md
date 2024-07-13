@@ -17,4 +17,4 @@
 6. Fry the garlic, Sichuan pepper, chili and douban sauce in a pan with oil
 7. Add the pork to the seasoned pan and fry until no raw parts are visible
 8. Add the black bean garlic sauce to the pan and fry for 1 minute
-9. Add the onion and the paprika to the pan and fry for 3 minutes
+9. Add the onion and the paprika to the pan and fry for 3 minutes, or until the onion got preferred softness
