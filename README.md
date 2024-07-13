@@ -13,6 +13,8 @@
 [Quiche Lorraine](https://github.com/henningonsbring/Recipes/blob/main/quiche_lorraine.md)<br>
 [Salsiccia pie](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pie.md)<br>
 [Taco pie](https://github.com/henningonsbring/Recipes/blob/main/taco_pie.md)
+## Salsa
+[Pico de gallo](https://github.com/henningonsbring/Recipes/blob/main/pico_de_gallo.md)
 ## Seafood
 [Gongbao Xiaqiu (宫保虾球)](https://github.com/henningonsbring/Recipes/blob/main/gongbao_xiaqiu.md)<br>
 [Skagenröra](https://github.com/henningonsbring/Recipes/blob/main/skagenrora.md)
@@ -38,6 +40,7 @@
 [Boeuf bourguignon](https://github.com/henningonsbring/Recipes/blob/main/boeuf_bourguignon.md)<br>
 [Quiche Lorraine](https://github.com/henningonsbring/Recipes/blob/main/quiche_lorraine.md)
 ## Mexico
+[Pico de gallo](https://github.com/henningonsbring/Recipes/blob/main/pico_de_gallo.md)<br>
 [Taco pie](https://github.com/henningonsbring/Recipes/blob/main/taco_pie.md)
 ## Sweden
 [Bacon broccolie pie](https://github.com/henningonsbring/Recipes/blob/main/bacon_broccoli_pie.md)<br>
@@ -57,6 +60,7 @@
 [Lasagna](https://github.com/henningonsbring/Recipes/blob/main/lasagna.md)<br>
 [Mango chicken](https://github.com/henningonsbring/Recipes/blob/main/mango_chicken.md)<br>
 [Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
+[Pico de gallo](https://github.com/henningonsbring/Recipes/blob/main/pico_de_gallo.md)<br>
 [Pork with onion sauce](https://github.com/henningonsbring/Recipes/blob/main/pork_with_onion_sauce.md)<br>
 [Portobello wrapped in puff pastry](https://github.com/henningonsbring/Recipes/blob/main/portobello_wrapped_in_puff_pastry.md)<br>
 [Quiche Lorraine](https://github.com/henningonsbring/Recipes/blob/main/quiche_lorraine.md)<br>
