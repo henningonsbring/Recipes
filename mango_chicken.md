@@ -7,7 +7,7 @@
 - 5 dl creme fraiche
 - 175 g mango chutney
 - 1 vegetable bouillon cube
-- 2 tsk sambal oelek
+- 1 tsk sambal oelek
 - 1 krm salt
 ## Procedure
 1. Chop the paprika
