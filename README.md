@@ -1,5 +1,6 @@
 # Recipes sorted by category
 ## Husmanskost
+[Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
 [Pork with onion sauce](https://github.com/henningonsbring/Recipes/blob/main/pork_with_onion_sauce.md)
 ## Mushroom dishes
 [Portobello wrapped in puff pastry](https://github.com/henningonsbring/Recipes/blob/main/portobello_wrapped_in_puff_pastry.md)
@@ -39,6 +40,7 @@
 [Taco pie](https://github.com/henningonsbring/Recipes/blob/main/taco_pie.md)
 ## Sweden
 [Bacon broccolie pie](https://github.com/henningonsbring/Recipes/blob/main/bacon_broccoli_pie.md)<br>
+[Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
 [Pork with onion sauce](https://github.com/henningonsbring/Recipes/blob/main/pork_with_onion_sauce.md)<br>
 [Portobello wrapped in puff pastry](https://github.com/henningonsbring/Recipes/blob/main/portobello_wrapped_in_puff_pastry.md)<br>
 [Skagenröra](https://github.com/henningonsbring/Recipes/blob/main/skagenrora.md)<br>
@@ -51,6 +53,7 @@
 [Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)<br>
 [Lasagna](https://github.com/henningonsbring/Recipes/blob/main/lasagna.md)<br>
 [Mango chicken](https://github.com/henningonsbring/Recipes/blob/main/mango_chicken.md)<br>
+[Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
 [Pork with onion sauce](https://github.com/henningonsbring/Recipes/blob/main/pork_with_onion_sauce.md)<br>
 [Portobello wrapped in puff pastry](https://github.com/henningonsbring/Recipes/blob/main/portobello_wrapped_in_puff_pastry.md)<br>
 [Quiche Lorraine](https://github.com/henningonsbring/Recipes/blob/main/quiche_lorraine.md)<br>
