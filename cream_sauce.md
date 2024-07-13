@@ -1,6 +1,7 @@
 # Cream sauce
 Adapted from: https://bongtouchoftaste.se/recept/graddsas/
 ## Ingredients
+- 4 msk butter (about 60 g)
 - 0.5 dl flour
 - 5.5 dl milk, 3%
 - 2 msk concentrated veal stock
