@@ -9,8 +9,8 @@ Adapted from: https://www.ica.se/recept/tomatsoppa-med-basilikacreme-1777/
 - 1 vegetable bouillon cube
 - 3.5 dl water
 - 2.5 dl cream
-- salt
-- black pepper
+- Salt
+- Black pepper
 ## Procedure
 1. Chop the onion
 2. Cut the tomato into small dices
