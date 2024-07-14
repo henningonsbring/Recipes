@@ -20,4 +20,4 @@ Adapted from: https://www.ica.se/recept/tomatsoppa-med-basilikacreme-1777/
 6. Add salt and pepper
 7. Add cream
 ## Serving Suggestions
-Basil cream: Mix creme fraiche and basil pesto
+Basil cream: Mix creme fraiche and basil pesto. Serve basil cream on the side and add to each bowl of soup just before eating.
