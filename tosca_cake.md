@@ -22,14 +22,14 @@ Adapted from: https://recept.se/recept/mjuk-toscakaka
 2. Mix flour, vanilla sugar, and baking powder
 3. Whip egg and sugar thoroughly
 4. Gently blend the flour-vanilla-baking-powder-mix with the egg-sugar-mix
-5. Add the melted butter to the cake mix and blend without mixing
+5. Add the melted butter to the cake mix and blend without whipping
 6. Add the cream
 7. Pour the cake mixture into a baking tin dressed with baking paper
 8. Bake it in the lower part of the oven for 25 min at 175 degrees
 ### Topping
 9. Melt the butter
 10. Add all topping ingredients, except the almonds, to the pot with butter
-11. Gently heat the pot and shut of the heat after the first bubble, do not let it boil
+11. Stir while gently heating the pot and shut of the heat after the first bubble, do not let it boil
 12. Add the almond flakes to the pot and stir
 ### Finalizing the cake
 13. Spread the topping over the cake
