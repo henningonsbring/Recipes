@@ -1,6 +1,5 @@
 # Recipes Sorted by Category
 ## Husmanskost
-[Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
 [Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
 [Pork with onion sauce](https://github.com/henningonsbring/Recipes/blob/main/pork_with_onion_sauce.md)
 ## Mushroom dishes
@@ -13,10 +12,9 @@
 [Quiche Lorraine](https://github.com/henningonsbring/Recipes/blob/main/quiche_lorraine.md)<br>
 [Salsiccia pie](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pie.md)<br>
 [Taco pie](https://github.com/henningonsbring/Recipes/blob/main/taco_pie.md)
-## Salsa
-[Pico de gallo](https://github.com/henningonsbring/Recipes/blob/main/pico_de_gallo.md)
-## Seafood
-[Gongbao Xiaqiu (宫保虾球)](https://github.com/henningonsbring/Recipes/blob/main/gongbao_xiaqiu.md)<br>
+## Sauces, Salsa, and Spreads
+[Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
+[Pico de gallo](https://github.com/henningonsbring/Recipes/blob/main/pico_de_gallo.md)<br>
 [Skagenröra](https://github.com/henningonsbring/Recipes/blob/main/skagenrora.md)
 ## Soup
 [Tomato soup](https://github.com/henningonsbring/Recipes/blob/main/tomato_soup.md)
@@ -26,6 +24,7 @@
 [Mango chicken](https://github.com/henningonsbring/Recipes/blob/main/mango_chicken.md)<br>
 [Venison stew](https://github.com/henningonsbring/Recipes/blob/main/venison_stew.md)
 ## Wok
+[Gongbao Xiaqiu (宫保虾球)](https://github.com/henningonsbring/Recipes/blob/main/gongbao_xiaqiu.md)<br>
 [Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)
 # Recipes Sorted by Region of Inspiration
 ## China
