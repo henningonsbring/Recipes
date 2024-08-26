@@ -12,7 +12,7 @@ Adapted from: https://www.ica.se/recept/klassiska-kottbullar-712807/
 - Butter (to fry)
 ## Procedure
 1. Mix milk and breadcrumbs, let rest for 10 minutes
-2. Add minced meat, grated onion, egg, salt, black pepper and sugar into the milk-breadcrumbs-mix
+2. Add grated onion, egg, salt, black pepper and sugar into the milk-breadcrumbs-mix
 3. Mix the minced meat with the other ingredients thoroughly
 4. Splash water on a cutting board
 5. Keep hands wet while rolling the meatballs, put rolled meatballs on the wet cutting board
