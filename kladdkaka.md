@@ -14,4 +14,4 @@
 4. Pour the melted butter into the egg-sugar-mix and blend carefully
 5. Add the flour-cocoa-vanilla-salt-mix carefully to the egg-sugar-mix without whipping it
 6. Pour the cake mixture into a baking tin dressed with baking paper
-7. Bake it in the oven for ~30 min at 175 degrees. The cake should be in the middle or just below.
+7. Bake in the oven for ~30 min at 175 degrees. The cake should be in the middle or just below.
