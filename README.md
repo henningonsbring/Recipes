@@ -28,12 +28,14 @@
 [Venison stew](https://github.com/henningonsbring/Recipes/blob/main/venison_stew.md)
 ## Wok
 [Gongbao Xiaqiu (宫保虾球)](https://github.com/henningonsbring/Recipes/blob/main/gongbao_xiaqiu.md)<br>
-[Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)
+[Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)<br>
+[La Zi Ji (辣子鸡)](https://github.com/henningonsbring/Recipes/blob/main/la_zi_ji.md)
 # Recipes Sorted by Region of Inspiration
 ## China
 [Gongbao Xiaqiu (宫保虾球)](https://github.com/henningonsbring/Recipes/blob/main/gongbao_xiaqiu.md)<br>
 [Hong Shao Yang Rou (红烧羊肉)](https://github.com/henningonsbring/Recipes/blob/main/hong_shao_yang_rou.md)<br>
-[Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)
+[Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)<br>
+[La Zi Ji (辣子鸡)](https://github.com/henningonsbring/Recipes/blob/main/la_zi_ji.md)
 ## India
 [Mango chicken](https://github.com/henningonsbring/Recipes/blob/main/mango_chicken.md)
 ## Italy
@@ -64,6 +66,7 @@
 [Gongbao Xiaqiu (宫保虾球)](https://github.com/henningonsbring/Recipes/blob/main/gongbao_xiaqiu.md)<br>
 [Hong Shao Yang Rou (红烧羊肉)](https://github.com/henningonsbring/Recipes/blob/main/hong_shao_yang_rou.md)<br>
 [Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)<br>
+[La Zi Ji (辣子鸡)](https://github.com/henningonsbring/Recipes/blob/main/la_zi_ji.md)<br>
 [Lasagna](https://github.com/henningonsbring/Recipes/blob/main/lasagna.md)<br>
 [Mango chicken](https://github.com/henningonsbring/Recipes/blob/main/mango_chicken.md)<br>
 [Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
