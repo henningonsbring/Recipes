@@ -4,7 +4,7 @@
 - 1 liter dried chili (volume after cut)
 - 5x garlic cloves
 - 1 msk Sichuan pepper
-- 25 g ginger (about 2.5 cm³ if cube shaped)
+- 25 g ginger
 - 100 g red hot pot block
 - Oil to fry
 ## Procedure
