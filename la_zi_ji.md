@@ -8,7 +8,7 @@
 - 100 g red hot pot block
 - Oil to fry
 ## Procedure
-1. Cut the garlic into coins
+1. Cut the garlic into small pieces
 2. Cut dry chili into 2 cm pieces until you have 1 liter of cut chili
 3. Cut ginger into small pieces
 4. Cut the chicken into pieces
