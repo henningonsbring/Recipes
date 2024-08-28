@@ -1,6 +1,6 @@
 # La Zi Ji (辣子鸡)
 ## Ingredients
-- 700 g chicken thigh
+- 350 g chicken thigh
 - 1 liter dried chili (volume after cut)
 - 5x garlic cloves
 - 1 msk Sichuan pepper
