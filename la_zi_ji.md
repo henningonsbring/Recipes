@@ -6,16 +6,16 @@
 - 1 msk Sichuan pepper
 - 25 g ginger
 - 100 g red hot pot block
-- 0.5 tsk salt
+- 2 tsk salt
 - Oil to fry
 ## Procedure
-1. Cut the garlic into small pieces
-2. Cut the ginger into small pieces
-3. Cut dry chili into 2 cm pieces until you have 1 liter of cut chili
-4. Cut the chicken into pieces
-5. Fry the garlic, Sichuan pepper, ginger, and a few pieces of chili in an oiled pan
-6. Add the chicken to the seasoned pan and fry until no raw parts are visible
-7. Add the dried chili to the pan and keep frying for 3 minutes
-8. Add the hot pot seasoning to the pan and fry until the block is dissolved
-9. Add salt
-10. Keep frying for 1 more minute
+1. Cut the chicken into pieces
+2. Marinate the chicken in salt for 20 minutes
+3. Cut the garlic into small pieces
+4. Cut the ginger into small pieces
+5. Cut dry chili into 2 cm pieces until you have 1 liter of cut chili
+6. Fry the Sichuan pepper in oil until its aroma is released
+7. Add the chicken to the pan with Sichuan pepper and fry until no raw parts are visible
+8. Add garlic and ginger and fry for 2 minutes
+9. Add dry chili and mix
+10. Add the hot pot seasoning to the pan and fry until the block is dissolved
