@@ -1,4 +1,5 @@
 # La Zi Ji (辣子鸡)
+Adapted from: https://www.youtube.com/watch?v=ZjnOTA65DPo
 ## Ingredients
 - 350 g chicken thigh
 - 1 liter dried chili (volume after cut)
