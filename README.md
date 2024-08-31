@@ -1,5 +1,6 @@
 # Recipes Sorted by Region of Inspiration
 ## China
+[Baozi (包子)](https://github.com/henningonsbring/Recipes/blob/main/baozi.md)<br>
 [Gongbao Xiaqiu (宫保虾球)](https://github.com/henningonsbring/Recipes/blob/main/gongbao_xiaqiu.md)<br>
 [Hong Shao Yang Rou (红烧羊肉)](https://github.com/henningonsbring/Recipes/blob/main/hong_shao_yang_rou.md)<br>
 [Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)<br>
@@ -50,6 +51,8 @@
 [Skagenröra](https://github.com/henningonsbring/Recipes/blob/main/skagenrora.md)
 ## Soup
 [Tomato soup](https://github.com/henningonsbring/Recipes/blob/main/tomato_soup.md)
+## Steamed dishes
+[Baozi (包子)](https://github.com/henningonsbring/Recipes/blob/main/baozi.md)
 ## Stew
 [Boeuf bourguignon](https://github.com/henningonsbring/Recipes/blob/main/boeuf_bourguignon.md)<br>
 [Hong Shao Yang Rou (红烧羊肉)](https://github.com/henningonsbring/Recipes/blob/main/hong_shao_yang_rou.md)<br>
@@ -61,6 +64,7 @@
 [La Zi Ji (辣子鸡)](https://github.com/henningonsbring/Recipes/blob/main/la_zi_ji.md)
 # Recipes Sorted Alphabetically
 [Bacon broccolie pie](https://github.com/henningonsbring/Recipes/blob/main/bacon_broccoli_pie.md)<br>
+[Baozi (包子)](https://github.com/henningonsbring/Recipes/blob/main/baozi.md)<br>
 [Boeuf bourguignon](https://github.com/henningonsbring/Recipes/blob/main/boeuf_bourguignon.md)<br>
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
 [Gongbao Xiaqiu (宫保虾球)](https://github.com/henningonsbring/Recipes/blob/main/gongbao_xiaqiu.md)<br>
