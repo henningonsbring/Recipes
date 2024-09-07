@@ -1,7 +1,7 @@
 # Crispy baked fish
 Adapted from: https://receptfavoriter.se/recept/pankopanerad-torsk.html
 ## Ingredients
-- 700 g fish filet
+- 700 g fish filet (e.g. cod)
 - 1.5 dl flour
 - 1 krm salt
 - 1 krm white pepper
