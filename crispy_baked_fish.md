@@ -11,7 +11,7 @@ Adapted from: https://receptfavoriter.se/recept/pankopanerad-torsk.html
 - 3 msk butter (to fry)
 ## Procedure
 1. Mix flour, salt and white pepper in a deep plate
-2. Whip the egg and add to another plate
+2. Whip the egg in another plate
 3. Add panko bread crumbs to a third plate
 4. Flip the fish in first the flour-mix, then egg, and lastly bread crumbs
 5. Fry the coated fish in plenty of oil and butter at middle temperature until light brown
