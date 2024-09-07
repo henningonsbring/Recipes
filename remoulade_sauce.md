@@ -1,4 +1,4 @@
-# Remouladsås
+# Remoulade sauce
 Adapted from: https://www.ica.se/recept/remouladesas-284808/
 ## Ingredients
 - 2 dl crème fraiche
