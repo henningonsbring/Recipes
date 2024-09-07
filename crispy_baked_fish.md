@@ -15,3 +15,5 @@ Adapted from: https://receptfavoriter.se/recept/pankopanerad-torsk.html
 3. Add panko bread crumbs to a third plate
 4. Flip the fish in first the flour-mix, then egg, and lastly bread crumbs
 5. Fry the coated fish in plenty of oil and butter at middle temperature until light brown
+## Serving Suggestions
+Serve with [remoulade sauce](https://github.com/henningonsbring/Recipes/blob/main/remoulade_sauce.md) and potatoes. Skip dijon mustard for the remoulade sauce, and use dill instead of parsley.
