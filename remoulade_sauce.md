@@ -3,7 +3,7 @@ Adapted from: https://www.ica.se/recept/remouladesas-284808/
 ## Ingredients
 - 2 dl crème fraiche
 - 2 msk mayonnaise
-- 4 msk chopped cornichons
+- 4 msk chopped cornichons (approximately 10x)
 - 2 msk capers
 - 3 msk parsley (dill is another option)
 - 1 tsk tarragon
