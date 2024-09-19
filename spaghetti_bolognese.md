@@ -6,9 +6,9 @@ Adapted from: https://www.jamieoliver.com/recipes/beef/spaghetti-bolognese/
 - 140 g sliced bacon
 - 1x onion
 - 2x garlic cloves
-- 800 g tomatoes (e.g. canned plum tomatoes)
-- 2 msk tomatoe paste
-- 1 msk beef broth
+- 800 g canned San Marzano tomatoes
+- 2 msk tomato paste
+- 1 msk concentrated veal stock
 - 250 ml red wine
 - 2 tsk oregano
 - 0.5 tsk thyme
