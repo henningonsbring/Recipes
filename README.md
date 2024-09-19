@@ -10,7 +10,8 @@
 ## Italy
 [Lasagna](https://github.com/henningonsbring/Recipes/blob/main/lasagna.md)<br>
 [Salsiccia pasta](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pasta.md)<br>
-[Salsiccia pie](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pie.md)
+[Salsiccia pie](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pie.md)<br>
+[Spaghetti bolognese](https://github.com/henningonsbring/Recipes/blob/main/spaghetti_bolognese.md)
 ## France
 [Boeuf bourguignon](https://github.com/henningonsbring/Recipes/blob/main/boeuf_bourguignon.md)<br>
 [Quiche Lorraine](https://github.com/henningonsbring/Recipes/blob/main/quiche_lorraine.md)<br>
@@ -42,7 +43,8 @@
 [Portobello wrapped in puff pastry](https://github.com/henningonsbring/Recipes/blob/main/portobello_wrapped_in_puff_pastry.md)
 ## Pasta
 [Lasagna](https://github.com/henningonsbring/Recipes/blob/main/lasagna.md)<br>
-[Salsiccia pasta](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pasta.md)
+[Salsiccia pasta](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pasta.md)<br>
+[Spaghetti bolognese](https://github.com/henningonsbring/Recipes/blob/main/spaghetti_bolognese.md)
 ## Pie
 [Bacon broccolie pie](https://github.com/henningonsbring/Recipes/blob/main/bacon_broccoli_pie.md)<br>
 [Quiche Lorraine](https://github.com/henningonsbring/Recipes/blob/main/quiche_lorraine.md)<br>
@@ -88,6 +90,7 @@
 [Salsiccia pasta](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pasta.md)<br>
 [Salsiccia pie](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pie.md)<br>
 [Skagenröra](https://github.com/henningonsbring/Recipes/blob/main/skagenrora.md)<br>
+[Spaghetti bolognese](https://github.com/henningonsbring/Recipes/blob/main/spaghetti_bolognese.md)<br>
 [Taco pie](https://github.com/henningonsbring/Recipes/blob/main/taco_pie.md)<br>
 [Tomato soup](https://github.com/henningonsbring/Recipes/blob/main/tomato_soup.md)<br>
 [Tosca cake](https://github.com/henningonsbring/Recipes/blob/main/tosca_cake.md)<br>
