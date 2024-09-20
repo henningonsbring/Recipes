@@ -12,6 +12,7 @@ Adapted from: https://www.jamieoliver.com/recipes/beef/spaghetti-bolognese/
 - 250 ml red wine
 - 2 tsk oregano
 - 0.5 tsk thyme
+- 2x dried bay leaves
 - 1 msk flour
 - 1 tsk salt
 - 1 krm black pepper
@@ -25,7 +26,7 @@ Adapted from: https://www.jamieoliver.com/recipes/beef/spaghetti-bolognese/
 5. Fry beef and bacon until no raw parts are visible
 6. Add wine and boil for a few minutes
 7. Add tomatoes and tomato paste
-8. Add remaining ingredients (broth, oregano, thyme, flour, salt, black pepper)
+8. Add remaining ingredients (broth, oregano, thyme, flour, salt, black pepper, and bay leaves)
 9. Boil at low temperature for 45 min
 10. Boil the spaghetti
 11. Serve with parmesan on top
