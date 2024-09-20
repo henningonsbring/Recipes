@@ -24,9 +24,10 @@ Adapted from: https://www.jamieoliver.com/recipes/beef/spaghetti-bolognese/
 3. Cut the bacon into thin stripes
 4. Fry onion and pressed garlic until transparent in olive oil
 5. Fry beef and bacon until no raw parts are visible
-6. Add wine and boil for a few minutes
+6. Add wine and boil for a minute
 7. Add tomatoes and tomato paste
 8. Add remaining ingredients (broth, oregano, thyme, flour, salt, black pepper, and bay leaves)
-9. Boil at low temperature for 45 min
-10. Boil the spaghetti
-11. Serve with parmesan on top
+9. Boil at low temperature for 45 min under lid
+10. Adjust salt and pepper if needed
+11. Boil the spaghetti
+12. Serve with parmesan on top
