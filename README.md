@@ -30,7 +30,8 @@
 [Skagenröra](https://github.com/henningonsbring/Recipes/blob/main/skagenrora.md)<br>
 [Tomato soup](https://github.com/henningonsbring/Recipes/blob/main/tomato_soup.md)<br>
 [Tosca cake](https://github.com/henningonsbring/Recipes/blob/main/tosca_cake.md)<br>
-[Venison stew](https://github.com/henningonsbring/Recipes/blob/main/venison_stew.md)
+[Venison stew](https://github.com/henningonsbring/Recipes/blob/main/venison_stew.md)<br>
+[Wallenbergare](https://github.com/henningonsbring/Recipes/blob/main/wallenbergare.md)
 # Recipes Sorted by Category
 ## Dessert
 [Kladdkaka](https://github.com/henningonsbring/Recipes/blob/main/kladdkaka.md)<br>
@@ -38,7 +39,8 @@
 ## Husmanskost
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
 [Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
-[Pork with onion sauce](https://github.com/henningonsbring/Recipes/blob/main/pork_with_onion_sauce.md)
+[Pork with onion sauce](https://github.com/henningonsbring/Recipes/blob/main/pork_with_onion_sauce.md)<br>
+[Wallenbergare](https://github.com/henningonsbring/Recipes/blob/main/wallenbergare.md)
 ## Mushroom dishes
 [Portobello wrapped in puff pastry](https://github.com/henningonsbring/Recipes/blob/main/portobello_wrapped_in_puff_pastry.md)
 ## Pasta
@@ -94,4 +96,5 @@
 [Taco pie](https://github.com/henningonsbring/Recipes/blob/main/taco_pie.md)<br>
 [Tomato soup](https://github.com/henningonsbring/Recipes/blob/main/tomato_soup.md)<br>
 [Tosca cake](https://github.com/henningonsbring/Recipes/blob/main/tosca_cake.md)<br>
-[Venison stew](https://github.com/henningonsbring/Recipes/blob/main/venison_stew.md)
+[Venison stew](https://github.com/henningonsbring/Recipes/blob/main/venison_stew.md)<br>
+[Wallenbergare](https://github.com/henningonsbring/Recipes/blob/main/wallenbergare.md)
