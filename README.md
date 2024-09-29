@@ -4,7 +4,8 @@
 [Gongbao Xiaqiu (宫保虾球)](https://github.com/henningonsbring/Recipes/blob/main/gongbao_xiaqiu.md)<br>
 [Hong Shao Yang Rou (红烧羊肉)](https://github.com/henningonsbring/Recipes/blob/main/hong_shao_yang_rou.md)<br>
 [Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)<br>
-[La Zi Ji (辣子鸡)](https://github.com/henningonsbring/Recipes/blob/main/la_zi_ji.md)
+[La Zi Ji (辣子鸡)](https://github.com/henningonsbring/Recipes/blob/main/la_zi_ji.md)<br>
+[Shui Zhu Niu Rou](https://github.com/henningonsbring/Recipes/blob/main/shui_zhu_niu_rou.md)
 ## India
 [Mango chicken](https://github.com/henningonsbring/Recipes/blob/main/mango_chicken.md)
 ## Italy
@@ -57,7 +58,8 @@
 [Pico de gallo](https://github.com/henningonsbring/Recipes/blob/main/pico_de_gallo.md)<br>
 [Remoulade sauce](https://github.com/henningonsbring/Recipes/blob/main/remoulade_sauce.md)<br>
 [Skagenröra](https://github.com/henningonsbring/Recipes/blob/main/skagenrora.md)
-## Soup
+## Soup and broth-based dishes
+[Shui Zhu Niu Rou](https://github.com/henningonsbring/Recipes/blob/main/shui_zhu_niu_rou.md)<br>
 [Tomato soup](https://github.com/henningonsbring/Recipes/blob/main/tomato_soup.md)
 ## Steamed dishes
 [Baozi (包子)](https://github.com/henningonsbring/Recipes/blob/main/baozi.md)
@@ -91,6 +93,7 @@
 [Remoulade sauce](https://github.com/henningonsbring/Recipes/blob/main/remoulade_sauce.md)<br>
 [Salsiccia pasta](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pasta.md)<br>
 [Salsiccia pie](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pie.md)<br>
+[Shui Zhu Niu Rou](https://github.com/henningonsbring/Recipes/blob/main/shui_zhu_niu_rou.md)<br>
 [Skagenröra](https://github.com/henningonsbring/Recipes/blob/main/skagenrora.md)<br>
 [Spaghetti bolognese](https://github.com/henningonsbring/Recipes/blob/main/spaghetti_bolognese.md)<br>
 [Taco pie](https://github.com/henningonsbring/Recipes/blob/main/taco_pie.md)<br>
