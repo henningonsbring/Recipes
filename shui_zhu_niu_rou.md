@@ -13,7 +13,7 @@
 - 3 msk raps oil
 ### Remaining part
 - 6 garlic cloves
-- 30 g ginger (equivalent to the amount of garlic)
+- 30 g ginger (approx. equivalent to the amount of garlic)
 - 1 msk Sichuan pepper
 - 14x dried chilies
 - 180 g bean sprouts
