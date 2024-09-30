@@ -12,7 +12,7 @@ Adapted from: https://www.gittans.nu/2017/02/13/min-goda-bacon-och-broccolipaj/
 - 1/3 leek
 - 3x egg
 - 2.5 dl cooking cream
-- 3 dl grated cheese
+- 3 dl grated cheese (e.g. Västerbottensost)
 - Salt
 - Black pepper
 ## Procedure

@@ -8,7 +8,7 @@ Adapted from: https://www.ica.se/recept/quiche-lorraine-870/
 - 1 krm salt
 ### Filling
 - 150 g smoked ham
-- 150 g grated cheese
+- 150 g grated cheese (Västerbottensost is ideal)
 - 4x egg
 - 2.5 dl cream (27% fat, also referred to as "mellangrädde")
 - 1.5 dl milk
