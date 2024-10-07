@@ -44,6 +44,11 @@ Adapted from: https://www.recipetineats.com/vindaloo/
 9. Add the onion, ginger, garlic, and fry until the onion becomes transparent
 10. Add black mustard seeds and continue cooking until the onions turn a light golden-brown color
 11. Add tomato paste and cook for 1 minute
-12. Add concentrated veil stock and water
+12. Add concentrated veil stock and water, then stir
+13. Mix the curry sauce base with a stick blender in a suitable container
+14. Pour back the sauce base into the pot
 ### Complete the vindaloo
-11. 
+15. Add the marinated beef to the pot with curry sauce base
+16. Add curry leaves, then stir and bring to boil
+17. Boil the vindaloo for 2 hours at low temperature under lid
+18. Add coriander for decoration
