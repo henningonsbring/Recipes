@@ -14,7 +14,7 @@ Adapted from: https://www.recipetineats.com/vindaloo/
 - 1 tsk brown sugar
 - 1 tsk fenugreek seeds
 - 0.25 tsk turmeric powder
-- 3 to 7 msk white vinegar (depending on vinegar)
+- 3 msk white vinegar
 - 4.75 dl water
 ### Curry sauce base
 - 50 g butter
