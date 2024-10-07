@@ -7,7 +7,8 @@
 [La Zi Ji (辣子鸡)](https://github.com/henningonsbring/Recipes/blob/main/la_zi_ji.md)<br>
 [Shui Zhu Niu Rou (水煮牛肉)](https://github.com/henningonsbring/Recipes/blob/main/shui_zhu_niu_rou.md)
 ## India
-[Mango chicken](https://github.com/henningonsbring/Recipes/blob/main/mango_chicken.md)
+[Mango chicken](https://github.com/henningonsbring/Recipes/blob/main/mango_chicken.md)<br>
+[Vindaloo](https://github.com/henningonsbring/Recipes/blob/main/vindaloo.md)
 ## Italy
 [Lasagna](https://github.com/henningonsbring/Recipes/blob/main/lasagna.md)<br>
 [Salsiccia pasta](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pasta.md)<br>
@@ -68,7 +69,8 @@
 [Boeuf bourguignon](https://github.com/henningonsbring/Recipes/blob/main/boeuf_bourguignon.md)<br>
 [Hong Shao Yang Rou (红烧羊肉)](https://github.com/henningonsbring/Recipes/blob/main/hong_shao_yang_rou.md)<br>
 [Mango chicken](https://github.com/henningonsbring/Recipes/blob/main/mango_chicken.md)<br>
-[Venison stew](https://github.com/henningonsbring/Recipes/blob/main/venison_stew.md)
+[Venison stew](https://github.com/henningonsbring/Recipes/blob/main/venison_stew.md)<br>
+[Vindaloo](https://github.com/henningonsbring/Recipes/blob/main/vindaloo.md)
 ## Wok
 [Gongbao Xiaqiu (宫保虾球)](https://github.com/henningonsbring/Recipes/blob/main/gongbao_xiaqiu.md)<br>
 [Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)<br>
@@ -101,4 +103,5 @@
 [Tomato soup](https://github.com/henningonsbring/Recipes/blob/main/tomato_soup.md)<br>
 [Tosca cake](https://github.com/henningonsbring/Recipes/blob/main/tosca_cake.md)<br>
 [Venison stew](https://github.com/henningonsbring/Recipes/blob/main/venison_stew.md)<br>
+[Vindaloo](https://github.com/henningonsbring/Recipes/blob/main/vindaloo.md)<br>
 [Wallenbergare](https://github.com/henningonsbring/Recipes/blob/main/wallenbergare.md)
