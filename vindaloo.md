@@ -21,7 +21,7 @@ Adapted from: https://www.recipetineats.com/vindaloo/
 - 1 onion
 - 2 tsk ginger
 - 4 garlic cloves
-- 1.5 tsk black mustard seeds (Note 5)
+- 1.5 tsk black mustard seeds
 - 2 msk tomato paste
 - 10x fresh curry leaves
 - 1.5 msk concentrated veil stock
