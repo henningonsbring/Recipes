@@ -11,11 +11,11 @@ Adapted from: https://receptfavoriter.se/recept/viltskavsgryta-renskavsgryta.htm
 - 2 krm salt
 - 1.5 krm black pepper
 - 1 msk dijon mustard
-- 2.5 dl water
+- 2 dl water
 - 1 vegetable bouillon cube
 - 1 msk light cornstarch thickener (maizenaredning)
 - 1 tsk soy sauce
-- 2 dl cream
+- 2.5 dl cream
 ## Procedure
 1. Chop the onion into small pieces
 2. Clean and cut the mushrooms
