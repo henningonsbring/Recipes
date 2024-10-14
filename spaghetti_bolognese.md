@@ -11,7 +11,7 @@ Adapted from: https://www.jamieoliver.com/recipes/beef/spaghetti-bolognese/
 - 1 msk concentrated veal stock
 - 250 ml red wine
 - 2 tsk oregano
-- 10 g rosemary, roughly equivalent to 8-10 sprigs (or 0.5 tsk thyme)
+- 10 g fresh rosemary, roughly equivalent to 8-10 sprigs (or 0.5 tsk thyme)
 - 2x dried bay leaves
 - 1 msk flour
 - 1 tsk salt
