@@ -11,7 +11,7 @@ Adapted from: https://www.jamieoliver.com/recipes/beef/spaghetti-bolognese/
 - 1 msk concentrated veal stock
 - 250 ml red wine
 - 2 tsk oregano
-- 0.5 tsk thyme
+- 10 g rosemary, roughly equivalent to 8-10 sprigs (or 0.5 tsk thyme)
 - 2x dried bay leaves
 - 1 msk flour
 - 1 tsk salt
@@ -20,14 +20,14 @@ Adapted from: https://www.jamieoliver.com/recipes/beef/spaghetti-bolognese/
 - 60 g parmesan cheese
 ## Procedure
 1. Chop onion
-2. Chop tomatoes
+2. Chop tomatoes, leave excessive liquid in the can
 3. Cut the bacon into thin stripes
 4. Fry onion and pressed garlic until transparent in olive oil
 5. Fry beef and bacon until no raw parts are visible
 6. Add wine and boil for a minute
 7. Add tomatoes and tomato paste
-8. Add remaining ingredients (veal stock, oregano, thyme, flour, salt, black pepper, and bay leaves)
-9. Boil at low temperature for 45 min under lid
+8. Add remaining ingredients (veal stock, oregano, rosemary, flour, salt, black pepper, and bay leaves)
+9. Boil at low temperature for 45 min without lid
 10. Adjust salt and pepper if needed
 11. Boil the spaghetti
 12. Serve with parmesan on top
