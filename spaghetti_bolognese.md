@@ -19,8 +19,8 @@ Adapted from: https://www.jamieoliver.com/recipes/beef/spaghetti-bolognese/
 - 3 msk oliver oil (for frying)
 - 60 g parmesan cheese
 ## Procedure
-1. Chop onion
-2. Chop tomatoes, leave excessive liquid in the can
+1. Chop the onion
+2. Chop the tomatoes, leave excessive liquid in the can
 3. Cut the bacon into thin stripes
 4. Fry onion and pressed garlic until transparent in olive oil
 5. Fry beef and bacon until no raw parts are visible
