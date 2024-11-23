@@ -6,7 +6,7 @@ Adapted from: https://www.coop.se/recept/rodvinssas-grundrecept/
 - 2 tsk raw cane sugar
 - 2 msk tomato paste
 - 5 dl red wine
-- 1 dl water
+- 2 dl water
 - 3 msk concentrated beef stock
 - 2 krm dry thyme
 - 1x bay leaf
