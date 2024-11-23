@@ -61,7 +61,7 @@
 ## Sauces, Salsa, and Spreads
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
 [Pico de gallo](https://github.com/henningonsbring/Recipes/blob/main/pico_de_gallo.md)<br>
-[Red_wine_sauce](https://github.com/henningonsbring/Recipes/blob/main/red_wine_sauce.md)<br>
+[Red wine sauce](https://github.com/henningonsbring/Recipes/blob/main/red_wine_sauce.md)<br>
 [Remoulade sauce](https://github.com/henningonsbring/Recipes/blob/main/remoulade_sauce.md)<br>
 [Skagenröra](https://github.com/henningonsbring/Recipes/blob/main/skagenrora.md)
 ## Soup and broth-based dishes
