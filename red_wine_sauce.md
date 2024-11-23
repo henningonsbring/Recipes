@@ -5,8 +5,8 @@ Adapted from: https://www.coop.se/recept/rodvinssas-grundrecept/
 - 1 msk butter (to fry)
 - 2 tsk raw cane sugar
 - 2 msk tomato paste
-- 3 dl red wine
-- 3 dl water
+- 5 dl red wine
+- 1 dl water
 - 3 msk concentrated beef stock
 - 2 krm dry thyme
 - 1x bay leaf
