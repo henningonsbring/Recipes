@@ -20,7 +20,7 @@ Adapted from: https://www.coop.se/recept/rodvinssas-grundrecept/
 3. Add the tomato paste and keep frying for about a minute
 4. Add the wine, thyme, and bay leaf
 5. Boil until the sauce is reduced by half
-6. Add water, veal stock, and let it boil for 10 minutes
+6. Add water and beef stock, then let it boil for 10 minutes
 7. Mix the corn starch with 3 msk water, then add to the sauce
 8. Boil the sauce until it thickens
 9. Add butter

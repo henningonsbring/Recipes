@@ -26,8 +26,10 @@ Adapted from: https://www.jamieoliver.com/recipes/beef/spaghetti-bolognese/
 5. Fry beef and bacon until no raw parts are visible
 6. Add wine and boil for a minute
 7. Add tomatoes and tomato paste
-8. Add remaining ingredients (veal stock, oregano, rosemary, flour, salt, black pepper, and bay leaves)
-9. Boil at low temperature for 45 min without lid
-10. Adjust salt and pepper if needed
-11. Boil the spaghetti
-12. Serve with parmesan on top
+8. Mix the flour with 3 msk water, then add to meat and tomatoes
+9. Add remaining ingredients (veal stock, oregano, rosemary, salt, black pepper, and bay leaves)
+10. Boil at low temperature for 45 min without lid
+11. If a more liquid bolognese is preferred add tomato sauce from the cans and/or use lid
+12. Adjust salt and pepper if needed
+13. Boil the spaghetti
+14. Serve with parmesan on top
