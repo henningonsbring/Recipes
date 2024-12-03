@@ -9,12 +9,11 @@
 - 0.5 tsk ginger
 - 2 tsk curry
 - 1 krm cayenne pepper
-- 2 tsk paprika powder
+- 1 tsk smoked paprika powder
 - 1x vegetable bouillon cube
-- 200 g dried red lentils
+- 2.5 dl dried red lentils
 - 400 ml coconut milk
 - 400 g crushed tomatoes
-- 70 g spinach
 - 1.5 tsk salt
 - 1 krm black peper
 - Turkish yoghurt
