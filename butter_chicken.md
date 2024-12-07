@@ -1,8 +1,6 @@
 # Butter chicken
 Adapted from: https://www.indianhealthyrecipes.com/butter-chicken/
 ## Ingredients
-### Key components
-- 500 g chicken (thighs or breast)
 ### Marinade
 - 1 msk lemon juice
 - 0.33 tsk salt
@@ -29,7 +27,14 @@ Adapted from: https://www.indianhealthyrecipes.com/butter-chicken/
 - 4x cloves
 - 1x yellow onion
 - 28x whole cashews (about 42 grams)
-- 1.2 dl water
+- 2 msk oil (to fry)
+- 2.4 dl passata (or 600 g fresh tomatoes)
+### Remaining part
+- 500 g chicken (thighs or breast)
+- 0.75 tsk salt
+- 1 tsk sugar
+- 0.5 tsk kasuri methi
+- 0.75 dl cream
 ## Procedure
 ### Marinate the chicken
 1. 
