@@ -46,34 +46,34 @@ Adapted from: https://www.indianhealthyrecipes.com/butter-chicken/
 5. Add the ginger, garlic, garam masala, cumin powder, coriander powder, kasuri methi, turmeric and strained yogurt
 6. Mix well, and cover, then let the chicken rest in the marinade for 12 hours in the refigerator (marinate no longer than 48 hours)
 ### Sauce preparations
-8. Slice the onion, grind the ginger, and press the garlic
-9. Add oil to a pan and saute the onion at medium heat until slightly golden
-10. Let the onion cool down
-11. Bring the chicken out of the refrigerator
+7. Slice the onion, grind the ginger, and press the garlic
+8. Add oil to a pan and saute the onion at medium heat until slightly golden
+9. Let the onion cool down
+10. Bring the chicken out of the refrigerator
 11. Add cashew to a blander
 12. Mix the cashews, then add 0.2 dl water and run the blender again
-11. To the same blender add 1 dl passata, 1 dl water, and the onion
-12. Mix the content in the blender
+13. To the same blender add 1 dl passata, 1 dl water, and the onion
+14. Mix the content in the blender
 ### Sauce
-13. Remove the seeds from the green chili, and chop into small pieces
-14. Heat butter in a pot and add the cinnamon, cloves, and cardamoms
-15. Once the content of the pan begins to sizzle, add ginger, garlic, green chili, then fry on a medium heat for 1 to 2 minutes until the raw smell goes away
-16. Stir during the frying to make sure nothing burns
-17. Turn off the heat, add red chili powder, garam masala, cumin powder, and coriander powder
-18. Pour the puree into the pot through a strain
-19. Add 1.4 dl passata
-20. Bring the sauce to boil at medium temperature
-21. Cover partially and let boil on a medium heat, stir often, until thick (about 15 minutes).
-22. Add 3.5 dl hot water and mix
-23. Let the sauce simmer for 10 minutes partially covered. The final result should be a thicker sauce with traces of fat visible on the top of the sauce
+15. Remove the seeds from the green chili, and chop into small pieces
+16. Heat butter in a pot and add the cinnamon, cloves, and cardamoms
+17. Once the content of the pan begins to sizzle, add ginger, garlic, green chili, then fry on a medium heat for 1 to 2 minutes until the raw smell goes away
+18. Stir during the frying to make sure nothing burns
+19. Turn off the heat, add red chili powder, garam masala, cumin powder, and coriander powder
+20. Pour the puree into the pot through a strain
+21. Add 1.4 dl passata
+22. Bring the sauce to boil at medium temperature
+23. Cover partially and let boil on a medium heat, stir often, until thick (about 15 minutes).
+24. Add 3.5 dl hot water and mix
+25. Let the sauce simmer for 10 minutes partially covered. The final result should be a thicker sauce with traces of fat visible on the top of the sauce
 ### Final steps
-24. Add butter to a pan and space the pieces apart, then fry at medium heat
-25. Fry the chicken until it is just done and all the moisture evaporates
-26. If preferred then whole spices can be removed from the sauce at this step
-27. Add chicken to the sauce
-28. Add 1.2 dl hot water to the sauce (can be skipped depending on preferred thickness)
-29. Simmer the sauce and chicken for 7 minutes
-30. Crush kasuri methi and add to the pot
-31. Add salt, and sugar, then stir
-32. If requiered add more garam masala or butter
-33. Add the cream and stir
+26. Add butter to a pan and space the pieces apart, then fry at medium heat
+27. Fry the chicken until it is just done and all the moisture evaporates
+28. If preferred then whole spices can be removed from the sauce at this step
+29. Add chicken to the sauce
+30. Add 1.2 dl hot water to the sauce (can be skipped depending on preferred thickness)
+31. Simmer the sauce and chicken for 7 minutes
+32. Crush kasuri methi and add to the pot
+33. Add salt, and sugar, then stir
+34. If requiered add more garam masala or butter
+35. Add the cream and stir
