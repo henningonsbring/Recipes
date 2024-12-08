@@ -14,6 +14,7 @@ Adapted from: https://www.indianhealthyrecipes.com/butter-chicken/
 - 0.75 msk ginger garlic paste (or 0.5 msk each of fine grated ginger and pressed garlic)
 - 0.75 dl strained yogurt (e.g. hung curd or Greek yoghurt)
 ### Sauce
+- 1x yellow onion
 - 2 msk butter
 - 0.75 msk ginger garlic paste (or 0.5 msk each of fine grated ginger and pressed garlic)
 - 2x green chilies
@@ -25,7 +26,6 @@ Adapted from: https://www.indianhealthyrecipes.com/butter-chicken/
 - 1x cinnamon (2 inch piece)
 - 4x green cardamoms
 - 4x cloves
-- 1x yellow onion
 - 28x whole cashews (about 42 grams)
 - 1.2 dl water
 - 1 msk oil (to fry)
@@ -42,14 +42,14 @@ Adapted from: https://www.indianhealthyrecipes.com/butter-chicken/
 2. Add chili powder, salt, and lemon juice
 3. Mix well, cover, then let rest for 20 minutes.
 ### Second marinade
-4. Cut ginger into as small pieces as possible, and press the garlic
+4. Grind the ginger, and press the garlic
 5. Add the ginger, garlic, garam masala, cumin powder, coriander powder, kasuri methi, turmeric and strained yogurt.
 6. Mix well, and cover, then let the chicken rest in the marinade for 12 hours in the refigerator (marinate no longer than 48 hours)
 ### Sauce preparations
-7. Bring the chicken out of the refrigerator
-8. Slice the onion
+8. Slice the onion, grind the ginger, and press the garlic
 9. Add oil to a pan and saute the onion at medium heat until slightly golden
 10. Let the onion cool down
+11. Bring the chicken out of the refrigerator
 11. Add cashew to a blander
 12. Grind the cashews, then add 0.2 dl water and grind again
 11. To the same blender add 1 dl passata, 1 dl water, and the onion
