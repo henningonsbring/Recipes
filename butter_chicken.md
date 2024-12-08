@@ -11,7 +11,6 @@ Adapted from: https://www.indianhealthyrecipes.com/butter-chicken/
 - 1 krm turmeric
 - 0.5 tsk cumin powder
 - 1 tsk coriander powder
-- 1 msk oil
 - 0.75 msk ginger garlic paste (or 0.5 msk each of fine grated ginger and pressed garlic)
 - 0.75 dl strained yogurt (e.g. hung curd or Greek yoghurt)
 ### Sauce
