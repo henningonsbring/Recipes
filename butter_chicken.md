@@ -67,13 +67,13 @@ Adapted from: https://www.indianhealthyrecipes.com/butter-chicken/
 24. Add 3.5 dl hot water and mix
 25. Let the sauce simmer for 10 minutes partially covered. The final result should be a thicker sauce with traces of fat visible on the top of the sauce
 ### Final steps
-26. Add butter to a pan and space the pieces apart, then fry at medium heat
-27. Fry the chicken until it is just done and all the moisture evaporates
+26. Add butter to a pan, add the chicken and space the pieces apart, then fry at medium heat
+27. Let the chicken fry until it is just done and all the moisture evaporates
 28. If preferred then whole spices can be removed from the sauce at this step
 29. Add chicken to the sauce
 30. Add 1.2 dl hot water to the sauce (can be skipped depending on preferred thickness)
 31. Simmer the sauce and chicken for 7 minutes
 32. Crush kasuri methi and add to the pot
 33. Add salt, and sugar, then stir
-34. If requiered add more garam masala or butter
+34. If required add more garam masala or butter
 35. Add the cream and stir
