@@ -37,7 +37,7 @@ Adapted from: https://www.indianhealthyrecipes.com/butter-chicken/
 - 0.75 dl cream
 ## Procedure
 ### Marinate the chicken
-1. Make sure there is no excess moisture on the chicken, then add to a bowl.
+1. Make sure there is no excess moisture on the chicken, cut into pieces, then add to a bowl.
 2. Add chili powder, salt, and lemon juice
 3. Mix well, cover, then let rest for 20 minutes.
 4. Cut ginger into as small pieces as possible, and press the garlic
