@@ -73,6 +73,6 @@ Adapted from: https://www.indianhealthyrecipes.com/butter-chicken/
 30. Add 1.2 dl hot water to the sauce (can be skipped depending on preferred thickness)
 31. Simmer the sauce and chicken for 7 minutes
 32. Crush kasuri methi and add to the pot
-33. Add salt, and sugar, then stir
+33. Add salt and sugar, then stir
 34. If required add more garam masala or butter
 35. Add the cream and stir
