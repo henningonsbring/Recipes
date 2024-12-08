@@ -22,7 +22,6 @@ Adapted from: https://www.indianhealthyrecipes.com/butter-chicken/
 - 1.5 tsk garam masala
 - 0.5 tsk cumin powder
 - 1.5 tsk coriander powder
-- 0.5 msk kasuri methi
 - 1x cinnamon (2 inch piece)
 - 4x green cardamoms
 - 4x cloves
