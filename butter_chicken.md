@@ -16,8 +16,8 @@ Adapted from: https://www.indianhealthyrecipes.com/butter-chicken/
 ### Sauce
 - 2 msk butter
 - 0.75 msk ginger garlic paste (or 0.5 msk each of fine grated ginger and pressed garlic)
-- 2 green chilies
-- 2 tsk Kashmiri red chilli powder
+- 2x green chilies
+- 2 tsk pure red chilli powder (e.g. Kashmiri)
 - 1.5 tsk garam masala
 - 0.5 tsk cumin powder
 - 1.5 tsk coriander powder
@@ -27,7 +27,8 @@ Adapted from: https://www.indianhealthyrecipes.com/butter-chicken/
 - 4x cloves
 - 1x yellow onion
 - 28x whole cashews (about 42 grams)
-- 2 msk oil (to fry)
+- 1.2 dl water
+- 1 msk oil (to fry)
 - 2.4 dl passata (or 600 g fresh tomatoes)
 ### Remaining part
 - 500 g chicken (thighs or breast)
@@ -45,9 +46,32 @@ Adapted from: https://www.indianhealthyrecipes.com/butter-chicken/
 5. Add the ginger, garlic, garam masala, cumin powder, coriander powder, kasuri methi, turmeric and strained yogurt.
 6. Mix well, and cover, then let the chicken rest in the marinade for 12 hours in the refigerator (marinate no longer than 48 hours)
 ### Sauce preparations
-
+7. Bring the chicken out of the refrigerator
+8. Slice the onion
+9. Add oil to a pan and saute the onion at medium heat until slightly golden
+10. Let the onion cool down
+11. Add cashew to a blander
+12. Grind the cashews, then add 0.2 dl water and grind again
+11. To the same blender add 1 dl passata, 1 dl water, and the onion
+12. Mix the content in the blender
 ### Sauce
-
+13. Heat butter in a pot and add the cinnamon, cloves, and cardamoms
+14. Once the content of the pan begins to sizzle, add ginger, garlic, green chili, then fry on a medium heat for 1 to 2 minutes until the raw smell goes away.
+15. Stir during the frying to make sure nothing burns
+16. Turn off the heat, add red chili powder, garam masala, cumin powder, and coriander powder
+17. Pour the puree into the pot through a strain
+18. Add 1.4 dl passata
+19. Bring the sauce to boil at medium temperature
+20. Cover partially and let boil on a medium heat, stir often, until thick (about 15 minutes).
+21. Add 3.5 dl hot water and mix
+22. Let the sauce simmer for 10 minutes partially covered. The final result should be a thicker sauce with traces of fat visible on the top of the sauce
 ### Final steps
-
-
+23. Add butter to a pan and space the pieces apart, then fry at medium heat
+24. Fry the chicken until it is just done and all the moisture evaporates
+25. If preferred then whole spices can be removed from the sauce at this step
+26. Add chicken to the sauce
+27. Add 1.2 dl hot water to the sauce if the sauce is too thick
+28. Simmer the the sauce and chicken for 7 minutes
+29. Add salt, sugar, and kasuri methi, then stir
+30. If requiered add more garam masala or butter
+31. Add the cream and stir.
