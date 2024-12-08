@@ -4,7 +4,7 @@ Adapted from: https://www.indianhealthyrecipes.com/butter-chicken/
 ### Marinade
 - 1 msk lemon juice
 - 0.33 tsk salt
-- 0.5 tsk Kashmiri red chilli powder
+- 0.75 tsk pure red chilli powder (e.g. Kashmiri)
 - 1 tsk garam masala
 - 1 tsk kasuri methi (dried fenugreek leaves)
 - 1 krm turmeric
@@ -12,7 +12,7 @@ Adapted from: https://www.indianhealthyrecipes.com/butter-chicken/
 - 1 tsk coriander powder
 - 1 msk oil
 - 0.75 msk ginger garlic paste (or 0.5 msk each of fine grated ginger and pressed garlic)
-- 0.75 dl hung curd (or strained yogurt, e.g. Greek yoghurt)
+- 0.75 dl strained yogurt (e.g. hung curd or Greek yoghurt)
 ### Sauce
 - 2 msk butter
 - 0.75 msk ginger garlic paste (or 0.5 msk each of fine grated ginger and pressed garlic)
@@ -37,7 +37,12 @@ Adapted from: https://www.indianhealthyrecipes.com/butter-chicken/
 - 0.75 dl cream
 ## Procedure
 ### Marinate the chicken
-1. 
+1. Make sure there is no excess moisture on the chicken, then add to a bowl.
+2. Add chili powder, salt, and lemon juice
+3. Mix well, cover, then let rest for 20 minutes.
+4. Cut ginger into as small pieces as possible, and press the garlic
+5. Add the ginger, garlic, garam masala, cumin powder, coriander powder, kasuri methi, turmeric and strained yogurt.
+6. Mix well, and cover, then let the chicken rest in the marinade for 12 hours in the refigerator (marinate no longer than 48 hours)
 ### Sauce preparations
 
 ### Sauce
