@@ -7,6 +7,7 @@
 [La Zi Ji (辣子鸡)](https://github.com/henningonsbring/Recipes/blob/main/la_zi_ji.md)<br>
 [Shui Zhu Niu Rou (水煮牛肉)](https://github.com/henningonsbring/Recipes/blob/main/shui_zhu_niu_rou.md)
 ## India
+[Butter chicken](https://github.com/henningonsbring/Recipes/blob/main/butter_chicken.md)<br>
 [Mango chicken](https://github.com/henningonsbring/Recipes/blob/main/mango_chicken.md)<br>
 [Red lentil dahl](https://github.com/henningonsbring/Recipes/blob/main/red_lentil_dahl.md)<br>
 [Vindaloo](https://github.com/henningonsbring/Recipes/blob/main/vindaloo.md)
@@ -76,6 +77,7 @@
 [Baozi (包子)](https://github.com/henningonsbring/Recipes/blob/main/baozi.md)
 ## Stew
 [Boeuf bourguignon](https://github.com/henningonsbring/Recipes/blob/main/boeuf_bourguignon.md)<br>
+[Butter chicken](https://github.com/henningonsbring/Recipes/blob/main/butter_chicken.md)<br>
 [Hong Shao Yang Rou (红烧羊肉)](https://github.com/henningonsbring/Recipes/blob/main/hong_shao_yang_rou.md)<br>
 [Mango chicken](https://github.com/henningonsbring/Recipes/blob/main/mango_chicken.md)<br>
 [Red lentil dahl](https://github.com/henningonsbring/Recipes/blob/main/red_lentil_dahl.md)<br>
@@ -90,6 +92,7 @@
 [Baozi (包子)](https://github.com/henningonsbring/Recipes/blob/main/baozi.md)<br>
 [Bearnaise sauce](https://github.com/henningonsbring/Recipes/blob/main/bearnaise_sauce.md)<br>
 [Boeuf bourguignon](https://github.com/henningonsbring/Recipes/blob/main/boeuf_bourguignon.md)<br>
+[Butter chicken](https://github.com/henningonsbring/Recipes/blob/main/butter_chicken.md)<br>
 [Cinnamon buns](https://github.com/henningonsbring/Recipes/blob/main/cinnamon_buns.md)<br>
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
