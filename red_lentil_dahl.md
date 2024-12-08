@@ -16,7 +16,7 @@
 - 400 g crushed tomatoes
 - 1.5 tsk salt
 - 1 krm black peper
-- Turkish yoghurt
+- Strained yogurt (e.g. Turkish yoghurt)
 ## Procedure
 1. Chop the onion
 2. Press the garlic

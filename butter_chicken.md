@@ -12,7 +12,7 @@ Adapted from: https://www.indianhealthyrecipes.com/butter-chicken/
 - 1 tsk coriander powder
 - 1 msk oil
 - 0.75 msk ginger garlic paste (or 0.5 msk each of fine grated ginger and pressed garlic)
-- 0.75 dl hung curd (or Greek yoghurt)
+- 0.75 dl hung curd (or strained yogurt, e.g. Greek yoghurt)
 ### Sauce
 - 2 msk butter
 - 0.75 msk ginger garlic paste (or 0.5 msk each of fine grated ginger and pressed garlic)
