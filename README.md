@@ -31,6 +31,7 @@
 ## Spain
 [Tomato soup](https://github.com/henningonsbring/Recipes/blob/main/tomato_soup.md)<br>
 ## Sweden
+[Chocolate balls](https://github.com/henningonsbring/Recipes/blob/main/chocolate_balls.md)<br>
 [Cinnamon buns](https://github.com/henningonsbring/Recipes/blob/main/cinnamon_buns.md)<br>
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
@@ -43,6 +44,7 @@
 [Wallenbergare](https://github.com/henningonsbring/Recipes/blob/main/wallenbergare.md)
 # Recipes Sorted by Category
 ## Dessert
+[Chocolate balls](https://github.com/henningonsbring/Recipes/blob/main/chocolate_balls.md)<br>
 [Cinnamon buns](https://github.com/henningonsbring/Recipes/blob/main/cinnamon_buns.md)<br>
 [Kladdkaka](https://github.com/henningonsbring/Recipes/blob/main/kladdkaka.md)<br>
 [Tosca cake](https://github.com/henningonsbring/Recipes/blob/main/tosca_cake.md)
@@ -93,6 +95,7 @@
 [Bearnaise sauce](https://github.com/henningonsbring/Recipes/blob/main/bearnaise_sauce.md)<br>
 [Boeuf bourguignon](https://github.com/henningonsbring/Recipes/blob/main/boeuf_bourguignon.md)<br>
 [Butter chicken](https://github.com/henningonsbring/Recipes/blob/main/butter_chicken.md)<br>
+[Chocolate balls](https://github.com/henningonsbring/Recipes/blob/main/chocolate_balls.md)<br>
 [Cinnamon buns](https://github.com/henningonsbring/Recipes/blob/main/cinnamon_buns.md)<br>
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
