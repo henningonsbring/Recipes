@@ -9,7 +9,7 @@
 ## Procedure
 1. Place the butter in a bowl and let it soften to room temperature
 2. In a separate bowl, combine the sugar and cocoa powder
-3. Gradually add the cocoa-sugar mixture to the softened butter. Mix until smooth and fully homogenized
+3. Add the cocoa-sugar mixture to the softened butter. Mix until smooth and fully homogenized
 4. Add the rolled oats and water, working the mixture until evenly combined
 5. Pour pearl sugar onto a plate
 6. Roll the oat-cocoa blend into small balls, then coat each one by rolling it in the pearl sugar
