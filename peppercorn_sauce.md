@@ -1,4 +1,4 @@
-# Peppercorn sauce sauce
+# Peppercorn sauce
 ## Ingredients
 - 1 tsk black peppercorn
 - 1 tsk pink peppercorn
