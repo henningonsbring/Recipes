@@ -4,7 +4,7 @@
 - 1 tsk pink peppercorn
 - 1 tsk green peppercorn
 - 3x shallots
-- 1.5 msk butter (for frying)
+- 25 g butter (for frying)
 - 1 msk tomato paste
 - 2.5 dl cream
 - 0.5 dl water
