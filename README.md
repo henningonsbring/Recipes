@@ -69,14 +69,14 @@
 [Quiche Lorraine](https://github.com/henningonsbring/Recipes/blob/main/quiche_lorraine.md)<br>
 [Salsiccia pie](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pie.md)<br>
 [Taco pie](https://github.com/henningonsbring/Recipes/blob/main/taco_pie.md)
-## Salads
+## Salads and Salsa
+[Pico de gallo](https://github.com/henningonsbring/Recipes/blob/main/pico_de_gallo.md)<br>
 [Tabbouleh](https://github.com/henningonsbring/Recipes/blob/main/tabbouleh.md)
-## Sauces, Salsa, and Spreads
+## Sauces and Spreads
 [Bearnaise sauce](https://github.com/henningonsbring/Recipes/blob/main/bearnaise_sauce.md)<br>
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
 [Labneh](https://github.com/henningonsbring/Recipes/blob/main/labneh.md)<br>
 [Peppercorn sauce](https://github.com/henningonsbring/Recipes/blob/main/peppercorn_sauce.md)<br>
-[Pico de gallo](https://github.com/henningonsbring/Recipes/blob/main/pico_de_gallo.md)<br>
 [Red wine sauce](https://github.com/henningonsbring/Recipes/blob/main/red_wine_sauce.md)<br>
 [Remoulade sauce](https://github.com/henningonsbring/Recipes/blob/main/remoulade_sauce.md)<br>
 [Skagenröra](https://github.com/henningonsbring/Recipes/blob/main/skagenrora.md)
