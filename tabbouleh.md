@@ -9,7 +9,7 @@ Adapted from: https://feelgoodfoodie.net/recipe/traditional-lebanese-tabbouleh-s
 - 3x medium bunches parsley
 - 2x tomatoes (firm)
 - 2x green onions
-- 0.33x cucumber (about same amount as tomatos)
+- 0.33x cucumber (about same amount as tomatoes)
 - 0.6 dl fresh mint
 ## Procedure
 1. Rinse parsely and let dry (preferably the day before)
