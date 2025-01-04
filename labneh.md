@@ -7,7 +7,8 @@ Adapted from: https://www.allrecipes.com/recipe/244796/labneh-lebanese-yogurt/
 - 1 msk dill
 - 0.5 tsk salt
 ## Procedure
-1. Finely chop the mint
+1. Finely chop the fresh mint
 2. Add the yogurt to a bowl
 3. Add the olive oil
 4. Add the fresh mint, dill, and salt
+5. Stir until well combined
