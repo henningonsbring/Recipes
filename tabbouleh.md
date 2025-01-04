@@ -12,7 +12,7 @@ Adapted from: https://feelgoodfoodie.net/recipe/traditional-lebanese-tabbouleh-s
 - 0.5x cucumber (about same amount as tomatoes)
 - 0.6 dl fresh mint (25 g fresh mint with branches gives about 1.5 dl chopped leaves)
 ## Procedure
-1. Rinse parsely and let dry (preferably the day before)
+1. Rinse parsely and let dry
 2. Mix the olive oil, lemon juice, and black pepper in a bowl until well combined
 3. Add the bulgur and let the grains soak for about 20 to 30 minutes
 4. Finely chop tomatoes and cucumber
