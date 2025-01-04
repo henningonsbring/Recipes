@@ -27,6 +27,7 @@
 [Salsiccia pie](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pie.md)<br>
 [Spaghetti bolognese](https://github.com/henningonsbring/Recipes/blob/main/spaghetti_bolognese.md)
 ## Lebanon
+[Labneh](https://github.com/henningonsbring/Recipes/blob/main/labneh.md)<br>
 [Tabbouleh](https://github.com/henningonsbring/Recipes/blob/main/tabbouleh.md)
 ## Mexico
 [Pico de gallo](https://github.com/henningonsbring/Recipes/blob/main/pico_de_gallo.md)<br>
@@ -73,6 +74,7 @@
 ## Sauces, Salsa, and Spreads
 [Bearnaise sauce](https://github.com/henningonsbring/Recipes/blob/main/bearnaise_sauce.md)<br>
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
+[Labneh](https://github.com/henningonsbring/Recipes/blob/main/labneh.md)<br>
 [Peppercorn sauce](https://github.com/henningonsbring/Recipes/blob/main/peppercorn_sauce.md)<br>
 [Pico de gallo](https://github.com/henningonsbring/Recipes/blob/main/pico_de_gallo.md)<br>
 [Red wine sauce](https://github.com/henningonsbring/Recipes/blob/main/red_wine_sauce.md)<br>
@@ -110,6 +112,7 @@
 [Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)<br>
 [Kladdkaka](https://github.com/henningonsbring/Recipes/blob/main/kladdkaka.md)<br>
 [La Zi Ji (辣子鸡)](https://github.com/henningonsbring/Recipes/blob/main/la_zi_ji.md)<br>
+[Labneh](https://github.com/henningonsbring/Recipes/blob/main/labneh.md)<br>
 [Lasagna](https://github.com/henningonsbring/Recipes/blob/main/lasagna.md)<br>
 [Mango chicken](https://github.com/henningonsbring/Recipes/blob/main/mango_chicken.md)<br>
 [Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
