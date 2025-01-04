@@ -13,7 +13,7 @@ Adapted from: https://feelgoodfoodie.net/recipe/traditional-lebanese-tabbouleh-s
 - 0.6 dl fresh mint
 ## Procedure
 1. Rinse parsely and let dry (preferably the day before)
-2. Mix the olive oil, lemon juice, salt, and black pepper in a bowl until well combined
+2. Mix the olive oil, lemon juice, black pepper in a bowl until well combined
 3. Add the bulgur and let the grains soak for about 20 to 30 minutes
 4. Finely chop tomatoes and cucumber
 5. Combine tomatoes, cucumber and salt in a bowl, then let the mixture rest for 10 minutes
