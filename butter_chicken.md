@@ -1,7 +1,7 @@
 # Butter chicken
 Adapted from: https://www.indianhealthyrecipes.com/butter-chicken/
 ## Ingredients
-### First marginade
+### First marinade
 - 1 msk lemon juice
 - 0.33 tsk salt
 - 0.75 tsk pure red chilli powder (e.g. Kashmiri)
