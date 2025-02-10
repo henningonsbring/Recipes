@@ -8,6 +8,7 @@
 - 1.5 dl cooking oil
 - 2 tsk sambal oelek
 ## Procedure
-1. Mix egg yolk, dijon mustard, lemon juice, white pepper, and salt
-2. Add cooking oil in a thin stream while beating the mixture
-3. Add sambal oelek and stir until homogenous
+1. Take the egg out of the fridge so all the ingredients reach the same temperature
+2. Mix egg yolk, dijon mustard, lemon juice, white pepper, and salt
+3. Add cooking oil in a thin stream while beating the mixture
+4. Add sambal oelek and stir until homogenous
