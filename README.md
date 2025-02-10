@@ -6,7 +6,7 @@
 [Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)<br>
 [La Zi Ji (辣子鸡)](https://github.com/henningonsbring/Recipes/blob/main/la_zi_ji.md)<br>
 [Shui Zhu Niu Rou (水煮牛肉)](https://github.com/henningonsbring/Recipes/blob/main/shui_zhu_niu_rou.md)<br>
-[Xi Qin Chao Niu Rou](https://github.com/henningonsbring/Recipes/blob/main/xi_qin_chao_niu_rou.md)
+[Xi Qin Chao Niu Rou (西芹炒牛肉丝)](https://github.com/henningonsbring/Recipes/blob/main/xi_qin_chao_niu_rou.md)
 ## France
 [Bacon broccolie pie](https://github.com/henningonsbring/Recipes/blob/main/bacon_broccoli_pie.md)<br>
 [Bearnaise sauce](https://github.com/henningonsbring/Recipes/blob/main/bearnaise_sauce.md)<br>
@@ -98,7 +98,7 @@
 [Gongbao Xiaqiu (宫保虾球)](https://github.com/henningonsbring/Recipes/blob/main/gongbao_xiaqiu.md)<br>
 [Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)<br>
 [La Zi Ji (辣子鸡)](https://github.com/henningonsbring/Recipes/blob/main/la_zi_ji.md)<br>
-[Xi Qin Chao Niu Rou](https://github.com/henningonsbring/Recipes/blob/main/xi_qin_chao_niu_rou.md)
+[Xi Qin Chao Niu Rou (西芹炒牛肉丝)](https://github.com/henningonsbring/Recipes/blob/main/xi_qin_chao_niu_rou.md)
 # Recipes Sorted Alphabetically
 [Bacon broccolie pie](https://github.com/henningonsbring/Recipes/blob/main/bacon_broccoli_pie.md)<br>
 [Baozi (包子)](https://github.com/henningonsbring/Recipes/blob/main/baozi.md)<br>
@@ -139,4 +139,4 @@
 [Venison stew](https://github.com/henningonsbring/Recipes/blob/main/venison_stew.md)<br>
 [Vindaloo](https://github.com/henningonsbring/Recipes/blob/main/vindaloo.md)<br>
 [Wallenbergare](https://github.com/henningonsbring/Recipes/blob/main/wallenbergare.md)<br>
-[Xi Qin Chao Niu Rou](https://github.com/henningonsbring/Recipes/blob/main/xi_qin_chao_niu_rou.md)
+[Xi Qin Chao Niu Rou (西芹炒牛肉丝)](https://github.com/henningonsbring/Recipes/blob/main/xi_qin_chao_niu_rou.md)
