@@ -34,7 +34,8 @@
 [Pico de gallo](https://github.com/henningonsbring/Recipes/blob/main/pico_de_gallo.md)<br>
 [Taco pie](https://github.com/henningonsbring/Recipes/blob/main/taco_pie.md)
 ## Spain
-[Tomato soup](https://github.com/henningonsbring/Recipes/blob/main/tomato_soup.md)<br>
+[Chili mayonnaise](https://github.com/henningonsbring/Recipes/blob/main/chili_mayonnaise.md)<br>
+[Tomato soup](https://github.com/henningonsbring/Recipes/blob/main/tomato_soup.md)
 ## Sweden
 [Chocolate balls](https://github.com/henningonsbring/Recipes/blob/main/chocolate_balls.md)<br>
 [Cinnamon buns](https://github.com/henningonsbring/Recipes/blob/main/cinnamon_buns.md)<br>
@@ -75,6 +76,7 @@
 [Tabbouleh](https://github.com/henningonsbring/Recipes/blob/main/tabbouleh.md)
 ## Sauces and Spreads
 [Bearnaise sauce](https://github.com/henningonsbring/Recipes/blob/main/bearnaise_sauce.md)<br>
+[Chili mayonnaise](https://github.com/henningonsbring/Recipes/blob/main/chili_mayonnaise.md)<br>
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
 [Labneh](https://github.com/henningonsbring/Recipes/blob/main/labneh.md)<br>
 [Peppercorn sauce](https://github.com/henningonsbring/Recipes/blob/main/peppercorn_sauce.md)<br>
@@ -105,6 +107,7 @@
 [Bearnaise sauce](https://github.com/henningonsbring/Recipes/blob/main/bearnaise_sauce.md)<br>
 [Boeuf bourguignon](https://github.com/henningonsbring/Recipes/blob/main/boeuf_bourguignon.md)<br>
 [Butter chicken](https://github.com/henningonsbring/Recipes/blob/main/butter_chicken.md)<br>
+[Chili mayonnaise](https://github.com/henningonsbring/Recipes/blob/main/chili_mayonnaise.md)<br>
 [Chocolate balls](https://github.com/henningonsbring/Recipes/blob/main/chocolate_balls.md)<br>
 [Cinnamon buns](https://github.com/henningonsbring/Recipes/blob/main/cinnamon_buns.md)<br>
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
