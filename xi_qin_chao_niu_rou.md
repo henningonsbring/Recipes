@@ -13,10 +13,10 @@
 - 2 tsk salt
 - 1 tsk corn starch
 - 2 krm white pepper
-- Oil (for marinade and to fry)
+- Rapeseed oil (for marinade and to fry)
 ## Procedure
 1. Cut the chuck steak into thin slices and add into a bowl
-2. To the bowl with meat slices add soy sauce, white pepper, salt, cooking wine, corn starch, and 1 msk oil
+2. To the bowl with meat slices add soy sauce, white pepper, salt, cooking wine, corn starch, and 1 msk rapeseed oil
 3. Let the meat slices rest in the marinade for 15 minutes
 4. Cut the garlic into slices
 5. Cut the celery into long thin pieces
