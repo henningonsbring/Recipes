@@ -7,6 +7,8 @@
 [La Zi Ji (辣子鸡)](https://github.com/henningonsbring/Recipes/blob/main/la_zi_ji.md)<br>
 [Shui Zhu Niu Rou (水煮牛肉)](https://github.com/henningonsbring/Recipes/blob/main/shui_zhu_niu_rou.md)<br>
 [Xi Qin Chao Niu Rou (西芹炒牛肉丝)](https://github.com/henningonsbring/Recipes/blob/main/xi_qin_chao_niu_rou.md)
+## Cuba
+[Mojito (non-alcoholic)](https://github.com/henningonsbring/Recipes/blob/main/mojito_non_alcoholic.md)
 ## France
 [Bacon broccolie pie](https://github.com/henningonsbring/Recipes/blob/main/bacon_broccoli_pie.md)<br>
 [Bearnaise sauce](https://github.com/henningonsbring/Recipes/blob/main/bearnaise_sauce.md)<br>
@@ -54,6 +56,8 @@
 [Cinnamon buns](https://github.com/henningonsbring/Recipes/blob/main/cinnamon_buns.md)<br>
 [Kladdkaka](https://github.com/henningonsbring/Recipes/blob/main/kladdkaka.md)<br>
 [Tosca cake](https://github.com/henningonsbring/Recipes/blob/main/tosca_cake.md)
+## Drinks
+[Mojito (non-alcoholic)](https://github.com/henningonsbring/Recipes/blob/main/mojito_non_alcoholic.md)
 ## Husmanskost
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
 [Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
@@ -121,6 +125,7 @@
 [Lasagna](https://github.com/henningonsbring/Recipes/blob/main/lasagna.md)<br>
 [Mango chicken](https://github.com/henningonsbring/Recipes/blob/main/mango_chicken.md)<br>
 [Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
+[Mojito (non-alcoholic)](https://github.com/henningonsbring/Recipes/blob/main/mojito_non_alcoholic.md)<br>
 [Pico de gallo](https://github.com/henningonsbring/Recipes/blob/main/pico_de_gallo.md)<br>
 [Peppercorn sauce](https://github.com/henningonsbring/Recipes/blob/main/peppercorn_sauce.md)<br>
 [Pork with onion sauce](https://github.com/henningonsbring/Recipes/blob/main/pork_with_onion_sauce.md)<br>
