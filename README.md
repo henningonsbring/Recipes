@@ -13,6 +13,7 @@
 [Bacon broccolie pie](https://github.com/henningonsbring/Recipes/blob/main/bacon_broccoli_pie.md)<br>
 [Bearnaise sauce](https://github.com/henningonsbring/Recipes/blob/main/bearnaise_sauce.md)<br>
 [Boeuf bourguignon](https://github.com/henningonsbring/Recipes/blob/main/boeuf_bourguignon.md)<br>
+[Caramelized onion](https://github.com/henningonsbring/Recipes/blob/main/caramelized_onion.md)<br>
 [Peppercorn sauce](https://github.com/henningonsbring/Recipes/blob/main/peppercorn_sauce.md)<br>
 [Portobello wrapped in puff pastry](https://github.com/henningonsbring/Recipes/blob/main/portobello_wrapped_in_puff_pastry.md)<br>
 [Potato gratin](https://github.com/henningonsbring/Recipes/blob/main/potato_gratin.md)<br>
@@ -104,6 +105,8 @@
 [Red lentil dahl](https://github.com/henningonsbring/Recipes/blob/main/red_lentil_dahl.md)<br>
 [Venison stew](https://github.com/henningonsbring/Recipes/blob/main/venison_stew.md)<br>
 [Vindaloo](https://github.com/henningonsbring/Recipes/blob/main/vindaloo.md)
+## Toppings
+[Caramelized onion](https://github.com/henningonsbring/Recipes/blob/main/caramelized_onion.md)
 ## Wok
 [Gongbao Xiaqiu (宫保虾球)](https://github.com/henningonsbring/Recipes/blob/main/gongbao_xiaqiu.md)<br>
 [Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)<br>
@@ -115,6 +118,7 @@
 [Bearnaise sauce](https://github.com/henningonsbring/Recipes/blob/main/bearnaise_sauce.md)<br>
 [Boeuf bourguignon](https://github.com/henningonsbring/Recipes/blob/main/boeuf_bourguignon.md)<br>
 [Butter chicken](https://github.com/henningonsbring/Recipes/blob/main/butter_chicken.md)<br>
+[Caramelized onion](https://github.com/henningonsbring/Recipes/blob/main/caramelized_onion.md)<br>
 [Chili mayonnaise](https://github.com/henningonsbring/Recipes/blob/main/chili_mayonnaise.md)<br>
 [Chocolate balls](https://github.com/henningonsbring/Recipes/blob/main/chocolate_balls.md)<br>
 [Cinnamon buns](https://github.com/henningonsbring/Recipes/blob/main/cinnamon_buns.md)<br>
