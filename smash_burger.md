@@ -6,8 +6,8 @@
 - Black pepper
 - Oil (or butter) to fry
 ## Recommended equipment
-- Cast iron pan
-- Metal burger flipper
+- Cast iron frying pan
+- Metal spatula
 - Smash burger press
 ## Procedure
 1. Roll the minced meat into balls, each weighing about 90 g
