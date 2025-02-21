@@ -83,8 +83,9 @@
 ## Salads and Salsa
 [Pico de gallo](https://github.com/henningonsbring/Recipes/blob/main/pico_de_gallo.md)<br>
 [Tabbouleh](https://github.com/henningonsbring/Recipes/blob/main/tabbouleh.md)
-## Sauces and Spreads
+## Sauces, Spreads and Condiments
 [Bearnaise sauce](https://github.com/henningonsbring/Recipes/blob/main/bearnaise_sauce.md)<br>
+[Caramelized onion](https://github.com/henningonsbring/Recipes/blob/main/caramelized_onion.md)<br>
 [Chili mayonnaise](https://github.com/henningonsbring/Recipes/blob/main/chili_mayonnaise.md)<br>
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
 [Labneh](https://github.com/henningonsbring/Recipes/blob/main/labneh.md)<br>
@@ -105,8 +106,6 @@
 [Red lentil dahl](https://github.com/henningonsbring/Recipes/blob/main/red_lentil_dahl.md)<br>
 [Venison stew](https://github.com/henningonsbring/Recipes/blob/main/venison_stew.md)<br>
 [Vindaloo](https://github.com/henningonsbring/Recipes/blob/main/vindaloo.md)
-## Toppings
-[Caramelized onion](https://github.com/henningonsbring/Recipes/blob/main/caramelized_onion.md)
 ## Wok
 [Gongbao Xiaqiu (宫保虾球)](https://github.com/henningonsbring/Recipes/blob/main/gongbao_xiaqiu.md)<br>
 [Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)<br>
