@@ -83,7 +83,7 @@
 ## Salads and Salsa
 [Pico de gallo](https://github.com/henningonsbring/Recipes/blob/main/pico_de_gallo.md)<br>
 [Tabbouleh](https://github.com/henningonsbring/Recipes/blob/main/tabbouleh.md)
-## Sauces, Spreads and Condiments
+## Sauces, Spreads, and Condiments
 [Bearnaise sauce](https://github.com/henningonsbring/Recipes/blob/main/bearnaise_sauce.md)<br>
 [Caramelized onion](https://github.com/henningonsbring/Recipes/blob/main/caramelized_onion.md)<br>
 [Chili mayonnaise](https://github.com/henningonsbring/Recipes/blob/main/chili_mayonnaise.md)<br>
