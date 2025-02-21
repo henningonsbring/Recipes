@@ -50,6 +50,8 @@
 [Tosca cake](https://github.com/henningonsbring/Recipes/blob/main/tosca_cake.md)<br>
 [Venison stew](https://github.com/henningonsbring/Recipes/blob/main/venison_stew.md)<br>
 [Wallenbergare](https://github.com/henningonsbring/Recipes/blob/main/wallenbergare.md)
+## USA
+[Smash burger](https://github.com/henningonsbring/Recipes/blob/main/smash_burger.md)
 # Recipes Sorted by Category
 ## Dessert
 [Chocolate balls](https://github.com/henningonsbring/Recipes/blob/main/chocolate_balls.md)<br>
@@ -58,6 +60,8 @@
 [Tosca cake](https://github.com/henningonsbring/Recipes/blob/main/tosca_cake.md)
 ## Drinks
 [Mojito (non-alcoholic)](https://github.com/henningonsbring/Recipes/blob/main/mojito_non_alcoholic.md)
+## Fast food
+[Smash burger](https://github.com/henningonsbring/Recipes/blob/main/smash_burger.md)
 ## Husmanskost
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
 [Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
@@ -139,6 +143,7 @@
 [Salsiccia pie](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pie.md)<br>
 [Shui Zhu Niu Rou (水煮牛肉)](https://github.com/henningonsbring/Recipes/blob/main/shui_zhu_niu_rou.md)<br>
 [Skagenröra](https://github.com/henningonsbring/Recipes/blob/main/skagenrora.md)<br>
+[Smash burger](https://github.com/henningonsbring/Recipes/blob/main/smash_burger.md)<br>
 [Spaghetti bolognese](https://github.com/henningonsbring/Recipes/blob/main/spaghetti_bolognese.md)<br>
 [Tabbouleh](https://github.com/henningonsbring/Recipes/blob/main/tabbouleh.md)<br>
 [Taco pie](https://github.com/henningonsbring/Recipes/blob/main/taco_pie.md)<br>
