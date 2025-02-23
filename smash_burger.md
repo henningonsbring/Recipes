@@ -20,3 +20,6 @@
 7. Season with salt and pepper, frying for 1 minute (step 7 out of 9 is a good starting point for the first burger - adjust as needed).
 8. Flip the burger and place a slice of cheddar on top right away.
 9. Fry for 1 minute on the other side.
+## Serving Suggestions
+[Caramelized onion](https://github.com/henningonsbring/Recipes/blob/main/caramelized_onion.md)<br>
+[Chili mayonnaise](https://github.com/henningonsbring/Recipes/blob/main/chili_mayonnaise.md)
