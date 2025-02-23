@@ -16,9 +16,9 @@
 2. Roll the minced meat into balls, each weighing about 90 g.
 3. Place the rolled minced meat in the fridge.
 4. Prepare any other additions you'll be including in the hamburger buns.
-5. Heat a small amount of oil in a frying pan over high heat. Not much oil, if any, is needed when the fat percentage is high.
+5. Heat a small amount of oil in a frying pan over high heat. Not much oil, if any, is needed when the fat percentage is high. Setting the stove to level 8 out of 9 is a good starting point for the first burger, adjust as needed
 6. Place a meatball in the pan and immediately smash it flat. Use baking paper to avoid minced meat getting stuck to the burger press.
-7. Season with salt and pepper, frying for 1 minute (step 8 out of 9 is a good starting point for the first burger - adjust as needed).
+7. Season with salt and pepper, then fry for 1 minute.
 8. Flip the burger and place a slice of cheddar on top right away.
 9. Fry for 1 minute on the other side.
 ## Serving Suggestions
