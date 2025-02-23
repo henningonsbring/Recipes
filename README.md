@@ -20,6 +20,8 @@
 [Quiche Lorraine](https://github.com/henningonsbring/Recipes/blob/main/quiche_lorraine.md)<br>
 [Red wine sauce](https://github.com/henningonsbring/Recipes/blob/main/red_wine_sauce.md)<br>
 [Remoulade sauce](https://github.com/henningonsbring/Recipes/blob/main/remoulade_sauce.md)
+## Germany
+[Schnitzel](https://github.com/henningonsbring/Recipes/blob/main/schnitzel.md)
 ## India
 [Butter chicken](https://github.com/henningonsbring/Recipes/blob/main/butter_chicken.md)<br>
 [Mango chicken](https://github.com/henningonsbring/Recipes/blob/main/mango_chicken.md)<br>
@@ -61,7 +63,8 @@
 [Tosca cake](https://github.com/henningonsbring/Recipes/blob/main/tosca_cake.md)
 ## Drinks
 [Mojito (non-alcoholic)](https://github.com/henningonsbring/Recipes/blob/main/mojito_non_alcoholic.md)
-## Fast food
+## Fried food
+[Schnitzel](https://github.com/henningonsbring/Recipes/blob/main/schnitzel.md)<br>
 [Smash burger](https://github.com/henningonsbring/Recipes/blob/main/smash_burger.md)
 ## Husmanskost
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
@@ -144,6 +147,7 @@
 [Remoulade sauce](https://github.com/henningonsbring/Recipes/blob/main/remoulade_sauce.md)<br>
 [Salsiccia pasta](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pasta.md)<br>
 [Salsiccia pie](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pie.md)<br>
+[Schnitzel](https://github.com/henningonsbring/Recipes/blob/main/schnitzel.md)<br>
 [Shui Zhu Niu Rou (水煮牛肉)](https://github.com/henningonsbring/Recipes/blob/main/shui_zhu_niu_rou.md)<br>
 [Skagenröra](https://github.com/henningonsbring/Recipes/blob/main/skagenrora.md)<br>
 [Smash burger](https://github.com/henningonsbring/Recipes/blob/main/smash_burger.md)<br>
