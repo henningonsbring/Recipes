@@ -4,7 +4,7 @@
 - 5x celery stalks
 - 6x garlic cloves
 - Ginger (equal to a third of the garlic)
-- 3x shallots
+- 4x shallots
 - 2 tsk douban sauce (e.g. Píxiàn dòubàn)
 - 1 msk soy sauce
 - 1 msk Chinese cooking wine (e.g. Shaoxing wine)
@@ -16,14 +16,16 @@
 - Rapeseed oil (for marinade and to fry)
 ## Procedure
 1. Cut the chuck steak into thin slices and add into a bowl
-2. To the bowl with meat slices add soy sauce, white pepper, salt, cooking wine, corn starch, and 1 msk rapeseed oil
-3. Let the meat slices rest in the marinade for 15 minutes
-4. Cut the garlic into slices
-5. Cut the celery into long thin pieces
-6. Cut the dry chili into halves
-7. Cut the ginger into coins
-8. Fry garlic, Sichuan pepper, and dry chili in a pan with oil
-9. When the aroma is released from the pan add douban sauce
-10. Add the meat to the pan and fry at high heat until no raw parts are visible
-11. Add the celery and fry for 2 minutes
-12. Add the onion and fry to preferred softness
+2. To the bowl with meat slices add soy sauce, white pepper, salt, cooking wine, corn starch, and thoroughly mix
+3. Add 1 msk rapeseed oil over the marinated meat slices to coat the surface. Avoid mixing after adding the oil
+4. Let the meat slices with marinade rest for 15 minutes in the fridge
+5. Cut the garlic into slices
+6. Cut the celery into long thin pieces
+7. Cut the dry chili into halves
+8. Cut the ginger into coins
+9. Cut the shallots into big pieces
+10. Fry garlic, ginger, Sichuan pepper, and dry chili in a pan with oil
+11. When the aroma is released from the pan add douban sauce
+12. Add the meat to the pan and fry at high heat until no raw parts are visible
+13. Add the celery and fry for 2 minutes
+14. Add the onion and fry to preferred softness
