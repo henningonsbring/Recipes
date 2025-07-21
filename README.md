@@ -4,6 +4,7 @@
 [Gongbao Xiaqiu (宫保虾球)](https://github.com/henningonsbring/Recipes/blob/main/gongbao_xiaqiu.md)<br>
 [Hong Shao Yang Rou (红烧羊肉)](https://github.com/henningonsbring/Recipes/blob/main/hong_shao_yang_rou.md)<br>
 [Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)<br>
+[Jian Jiao Ji (尖椒鸡)](https://github.com/henningonsbring/Recipes/blob/main/jian_jiao_ji.md)<br>
 [La Zi Ji (辣子鸡)](https://github.com/henningonsbring/Recipes/blob/main/la_zi_ji.md)<br>
 [Shui Zhu Niu Rou (水煮牛肉)](https://github.com/henningonsbring/Recipes/blob/main/shui_zhu_niu_rou.md)<br>
 [Xi Qin Chao Niu Rou (西芹炒牛肉丝)](https://github.com/henningonsbring/Recipes/blob/main/xi_qin_chao_niu_rou.md)
@@ -112,6 +113,7 @@
 ## Wok
 [Gongbao Xiaqiu (宫保虾球)](https://github.com/henningonsbring/Recipes/blob/main/gongbao_xiaqiu.md)<br>
 [Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)<br>
+[Jian Jiao Ji (尖椒鸡)](https://github.com/henningonsbring/Recipes/blob/main/jian_jiao_ji.md)<br>
 [La Zi Ji (辣子鸡)](https://github.com/henningonsbring/Recipes/blob/main/la_zi_ji.md)<br>
 [Xi Qin Chao Niu Rou (西芹炒牛肉丝)](https://github.com/henningonsbring/Recipes/blob/main/xi_qin_chao_niu_rou.md)
 # Recipes Sorted Alphabetically
@@ -129,6 +131,7 @@
 [Gongbao Xiaqiu (宫保虾球)](https://github.com/henningonsbring/Recipes/blob/main/gongbao_xiaqiu.md)<br>
 [Hong Shao Yang Rou (红烧羊肉)](https://github.com/henningonsbring/Recipes/blob/main/hong_shao_yang_rou.md)<br>
 [Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)<br>
+[Jian Jiao Ji (尖椒鸡)](https://github.com/henningonsbring/Recipes/blob/main/jian_jiao_ji.md)<br>
 [Kladdkaka](https://github.com/henningonsbring/Recipes/blob/main/kladdkaka.md)<br>
 [La Zi Ji (辣子鸡)](https://github.com/henningonsbring/Recipes/blob/main/la_zi_ji.md)<br>
 [Labneh](https://github.com/henningonsbring/Recipes/blob/main/labneh.md)<br>
