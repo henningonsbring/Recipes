@@ -25,9 +25,10 @@ Adapted from: https://www.ica.se/recept/boeuf-bourguignon-med-potatismos-726038/
 5. Pre-fry the beef in the other half of the butter
 6. Add the water to the beef and let it boil for 2 minutes
 7. Add the beef to the vegetables and the pork
-8. Add flour and stir
+8. Mix the flour with 3 msk water, then add to the pot and stir
 9. Add whine, veal stock, soy sauce, thyme and bay leafs
 10. Let the meat and vegetables boil at high temperature and skim off the foam
 11. Reduce to low heat and let boil for 1.5 to 2 hours with the lid slightly open
+12. Add salt and black pepper
 ## Serving Suggestions
 Mashed potatoes: Boil 1 kg potatoes, mash, add 2.25 dl milk, 50 g butter, 0.75 tsk salt, 2 krm white pepper, 1 krm sugar
