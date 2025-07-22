@@ -7,6 +7,7 @@
 [Jian Jiao Ji (尖椒鸡)](https://github.com/henningonsbring/Recipes/blob/main/jian_jiao_ji.md)<br>
 [La Zi Ji (辣子鸡)](https://github.com/henningonsbring/Recipes/blob/main/la_zi_ji.md)<br>
 [Shui Zhu Niu Rou (水煮牛肉)](https://github.com/henningonsbring/Recipes/blob/main/shui_zhu_niu_rou.md)<br>
+[Suan Ni Bai Rou (蒜泥白肉)](https://github.com/henningonsbring/Recipes/blob/main/suan_ni_bai_rou.md)<br>
 [Xi Qin Chao Niu Rou (西芹炒牛肉丝)](https://github.com/henningonsbring/Recipes/blob/main/xi_qin_chao_niu_rou.md)
 ## Cuba
 [Mojito (non-alcoholic)](https://github.com/henningonsbring/Recipes/blob/main/mojito_non_alcoholic.md)
@@ -86,6 +87,7 @@
 [Taco pie](https://github.com/henningonsbring/Recipes/blob/main/taco_pie.md)
 ## Salads and Salsa
 [Pico de gallo](https://github.com/henningonsbring/Recipes/blob/main/pico_de_gallo.md)<br>
+[Suan Ni Bai Rou (蒜泥白肉)](https://github.com/henningonsbring/Recipes/blob/main/suan_ni_bai_rou.md)<br>
 [Tabbouleh](https://github.com/henningonsbring/Recipes/blob/main/tabbouleh.md)
 ## Sauces, Spreads, and Condiments
 [Bearnaise sauce](https://github.com/henningonsbring/Recipes/blob/main/bearnaise_sauce.md)<br>
@@ -155,6 +157,7 @@
 [Skagenröra](https://github.com/henningonsbring/Recipes/blob/main/skagenrora.md)<br>
 [Smash burger](https://github.com/henningonsbring/Recipes/blob/main/smash_burger.md)<br>
 [Spaghetti bolognese](https://github.com/henningonsbring/Recipes/blob/main/spaghetti_bolognese.md)<br>
+[Suan Ni Bai Rou (蒜泥白肉)](https://github.com/henningonsbring/Recipes/blob/main/suan_ni_bai_rou.md)<br>
 [Tabbouleh](https://github.com/henningonsbring/Recipes/blob/main/tabbouleh.md)<br>
 [Taco pie](https://github.com/henningonsbring/Recipes/blob/main/taco_pie.md)<br>
 [Tomato soup](https://github.com/henningonsbring/Recipes/blob/main/tomato_soup.md)<br>
