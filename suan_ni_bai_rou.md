@@ -27,8 +27,8 @@
 11. Add chili flakes and Sichuan pepper to the bowl with garlic
 12. Once the pork is easily pierced by a chopstick, place it in cold water
 13. Heat oil in a pot
-14. Pour the hot oil over the garlic-chili-pepper mixture so it sizzles
-15. Add 2 tsk salt, soy sauce, and vinegar to the bowl
+14. Pour the hot oil over the garlic-chili-pepper-mix so it sizzles
+15. Add 2 tsk salt, soy sauce, and vinegar to the bowl with the garlic-chili-pepper-mix
 16. Slice the boiled pork and roll each slice together with a cucumber strip
 17. Arrange the pork-cucumber rolls on a plate and pour the garlic-based sauce on top
 18. Sprinkle chopped green onions over the dish
