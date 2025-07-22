@@ -17,7 +17,7 @@
 1. Add 1 liter of water to a bowl
 2. Add 2 tsk salt to the bowl of water
 3. Use a potato peeler to slice the cucumber into thin strips, then add them to the bowl
-4. Let the cucumber sit in the salted water for at least 15 minutes; meanwhile, proceed with the next steps
+4. Let the cucumber sit in the salted water for at least 15 minutes, meanwhile, proceed with the next steps
 5. Fill a pot with water
 6. Add cooking wine and ginger slices to the pot
 7. Add the pork belly and boil over medium heat
