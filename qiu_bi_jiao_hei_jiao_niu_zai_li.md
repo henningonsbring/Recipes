@@ -33,8 +33,8 @@
 7. Mix the sauce ingredients (except the corn starch)
 8. Heat oil and butter in a pan
 9. Fry the beef in small batches to prevent crowding and ensure an even crust
-10. Heat oil in a fresh pan and add the garlic, shallots, and bell peppers
-11. In an empty bowl, mix 1 msk corn starch with 3 msk water
+10. In an empty bowl, mix 1 msk corn starch with 3 msk water
+11. Heat oil in a fresh pan and add the garlic, shallots, and bell peppers
 12. Fry the onion and peppers until slightly softened
 13. Add the pre-fried beef into the pan with onion and peppers
 14. Add the pepper sauce to the pan with beef, onion, and peppers, then stir to coat
