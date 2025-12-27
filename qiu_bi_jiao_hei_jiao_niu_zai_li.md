@@ -24,7 +24,7 @@
 - 1 tsk dark soy sauce
 - 1 msk corn starch
 ## Procedure
-1. If generating perfect cubes is important then put beef briefly in freezer before starting
+1. If generating perfect beef cubes is important then put beef briefly in freezer before starting
 2. Cut the beef into 2 cm cubes
 3. Combine the beef cubes with all marinade ingredients and let sit for 30 minutes
 4. Chop onion into big wedges
