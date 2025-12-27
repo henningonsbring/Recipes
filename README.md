@@ -8,6 +8,7 @@
 [Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)<br>
 [Jian Jiao Ji (尖椒鸡)](https://github.com/henningonsbring/Recipes/blob/main/jian_jiao_ji.md)<br>
 [La Zi Ji (辣子鸡)](https://github.com/henningonsbring/Recipes/blob/main/la_zi_ji.md)<br>
+[Qiu Bi Jiao Hei Jiao Niu Zai Li (丘比椒黑椒牛仔粒)](https://github.com/henningonsbring/Recipes/blob/main/qiu_bi_jiao_hei_jiao_niu_zai_li.md)<br>
 [Shui Zhu Niu Rou (水煮牛肉)](https://github.com/henningonsbring/Recipes/blob/main/shui_zhu_niu_rou.md)<br>
 [Suan Ni Bai Rou (蒜泥白肉)](https://github.com/henningonsbring/Recipes/blob/main/suan_ni_bai_rou.md)<br>
 [Xi Qin Chao Niu Rou (西芹炒牛肉丝)](https://github.com/henningonsbring/Recipes/blob/main/xi_qin_chao_niu_rou.md)
@@ -121,6 +122,7 @@
 [Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)<br>
 [Jian Jiao Ji (尖椒鸡)](https://github.com/henningonsbring/Recipes/blob/main/jian_jiao_ji.md)<br>
 [La Zi Ji (辣子鸡)](https://github.com/henningonsbring/Recipes/blob/main/la_zi_ji.md)<br>
+[Qiu Bi Jiao Hei Jiao Niu Zai Li (丘比椒黑椒牛仔粒)](https://github.com/henningonsbring/Recipes/blob/main/qiu_bi_jiao_hei_jiao_niu_zai_li.md)<br>
 [Xi Qin Chao Niu Rou (西芹炒牛肉丝)](https://github.com/henningonsbring/Recipes/blob/main/xi_qin_chao_niu_rou.md)
 # Recipes Sorted Alphabetically
 [Bacon broccolie pie](https://github.com/henningonsbring/Recipes/blob/main/bacon_broccoli_pie.md)<br>
@@ -152,6 +154,7 @@
 [Pork with onion sauce](https://github.com/henningonsbring/Recipes/blob/main/pork_with_onion_sauce.md)<br>
 [Portobello wrapped in puff pastry](https://github.com/henningonsbring/Recipes/blob/main/portobello_wrapped_in_puff_pastry.md)<br>
 [Potato gratin](https://github.com/henningonsbring/Recipes/blob/main/potato_gratin.md)<br>
+[Qiu Bi Jiao Hei Jiao Niu Zai Li (丘比椒黑椒牛仔粒)](https://github.com/henningonsbring/Recipes/blob/main/qiu_bi_jiao_hei_jiao_niu_zai_li.md)<br>
 [Quiche Lorraine](https://github.com/henningonsbring/Recipes/blob/main/quiche_lorraine.md)<br>
 [Red lentil dahl](https://github.com/henningonsbring/Recipes/blob/main/red_lentil_dahl.md)<br>
 [Red wine sauce](https://github.com/henningonsbring/Recipes/blob/main/red_wine_sauce.md)<br>

@@ -23,21 +23,20 @@
 - 1 tsk whole black pepper
 - 1 tsk dark soy sauce
 - 1 msk corn starch
-
 ## Procedure
-1. Make a shallow cut along the back of each shrimp, without cutting all the way through
-2. Put the shrimps on a paper to dry them
-3. Mix the ingredients for the marinade in a bowl
-4. Add the shrimps to the marinade and let rest in the fridge
-5. Cut the celery into 3 cm pieces
-6. Cut the garlic and ginger into coins
-7. Cut the chili into 2 cm pieces
-8. Mix all ingredients for the Li Zhi sauce in a bowl
-9. Fry the shrimps in an oiled pan without brining excessive amounts of the marinade into the pan
-10. When shrimps start to change color then moved them to a plate
-11. Season a pan by frying the chili, garlic, ginger and Sichuan pepper in oil
-12. Add the shrimps to the seasoned pan
-13. Fry shrimps so they are not raw anymore
-14. Add celery to the pan and fry until preferred softness (1 min probably enough)
-15. Add the Li Zhi sauce to the pan and fry for 1 min
-16. Add the cashew nuts and fry for 30 sec
+1. If generating perfect cubes is important then put beef briefly in freezer before starting
+2. Cut the beef into 2 cm cubes
+3. Combine the beef cubes with all marinade ingredients and let sit for 30 minutes
+4. Chop onion into big wedges
+5. Chop bell pepper into pieces about the same size as the beef
+6. Mince the garlic
+7. Mix the sauce ingredients (except the corn starch)
+8. Heat oil and butter in a pan
+9. Fry the beef in small batches to prevent crowding and ensure an even crust
+10. Heat oil in a fresh pan and add the garlic, shallots, and bell peppers
+11. In an empty bowl, mix 1 msk corn starch with 3 msk water
+12. Fry the onion and peppers until slightly softened
+13. Add the pre-fried beef into the pan with onion and peppers
+14. Add the pepper sauce to the pan with beef, onion, and peppers, then stir to coat
+15. Add the cornstarch and water mix to the pan
+16. Cook until preferred softness for the vegetables
