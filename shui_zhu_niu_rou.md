@@ -10,7 +10,7 @@
 - 1x egg white
 - 2 tsk corn starch
 - 1 msk water
-- 3 msk raps oil
+- 3 msk rapeseed oil
 ### Remaining part
 - 6 garlic cloves
 - 30 g ginger (approx. equivalent to the amount of garlic)
@@ -37,7 +37,7 @@
 7. Mix thoroughly so that the beef is absorbing the marinade
 8. Mix the corn starch with the water
 9. Add the corn starch mix to the beef and mix thoroughly
-10. Add the raps oil on top of the meat and put in fridge
+10. Add the rapeseed oil on top of the meat and put in fridge
 ### Remaining part
 11. Chop the garlic
 12. Chop the ginger
@@ -53,7 +53,7 @@
 22. Add the water into the seasoned pan with douban sauce
 23. Add salt, white pepper and soy sauce to the pan
 24. Add the marinated beef into the pan and separate the beef slices
-25. While the beef boil, heat the raps oil in a pot
+25. While the beef boil, heat the rapeseed oil in a pot
 26. Boil until there is no more pinkness on the surface of the beef
 27. Add the meat on top of the sprouts
 28. Press the other half of the garlic on top of the meat

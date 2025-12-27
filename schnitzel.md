@@ -7,7 +7,7 @@ Adapted from: https://www.youtube.com/watch?v=hR_ERC6IcKM
 - 2.5 dl flour
 - 2x egg
 - 2.5 dl bread crumbs
-- 5 dl raps oil
+- 5 dl rapeseed oil
 ## Recommended equipment
 - Meat mallet (to flatten the meat)
 - Tong (to pick up the schnitzel from the pan)

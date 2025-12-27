@@ -7,7 +7,7 @@ Adapted from: https://receptfavoriter.se/recept/pankopanerad-torsk.html
 - 1 krm white pepper
 - 2 dl panko bread crumbs
 - 2x egg
-- 3 msk raps oil (to fry)
+- 3 msk rapeseed oil (to fry)
 - 3 msk butter (to fry)
 ## Procedure
 1. Mix flour, salt and white pepper in a deep plate

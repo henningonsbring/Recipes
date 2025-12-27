@@ -2,7 +2,7 @@
 ## Ingredients
 - 2x yellow onion
 - 1x zucchini
-- 2 msk raps oil (for frying)
+- 2 msk rapeseed oil (for frying)
 - 2x garlic cloves
 - 1 tsk cinnamon
 - 0.5 tsk cumin

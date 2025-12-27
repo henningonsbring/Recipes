@@ -3,7 +3,7 @@ Adapted from: https://www.ica.se/recept/karamelliserad-lok-729013/
 ## Ingredients
 - 4x yellow onions
 - 2 msk butter
-- 1 msk raps oil
+- 1 msk rapeseed oil
 - 2 krm sugar
 - Salt
 - Black pepper
