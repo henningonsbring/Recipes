@@ -2,7 +2,6 @@
 ## Ingredients
 ### Chicken
 - 600 g chicken
-- 1x onion
 - 2x bay leafs
 - 8x black peppercorns
 - Salt
@@ -21,7 +20,7 @@
 ## Procedure
 ### Chicken
 1. Place chicken in a pan
-2. Add big chunks of onion, bay leafs, pepper corns, salt
+2. Add bay leafs, pepper corns, salt
 3. Pour cold water to cover the chicken
 4. Bring gently to a bare simmer (do not boil)
 5. Simmer for around 12-15 min (breasts) or 15-18 min (thighs)
