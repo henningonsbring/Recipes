@@ -48,6 +48,7 @@
 [Tomato soup](https://github.com/henningonsbring/Recipes/blob/main/tomato_soup.md)
 ## Sweden
 [Chocolate balls](https://github.com/henningonsbring/Recipes/blob/main/chocolate_balls.md)<br>
+[Christmas porridge](https://github.com/henningonsbring/Recipes/blob/main/christmas_porridge.md)<br>
 [Cinnamon buns](https://github.com/henningonsbring/Recipes/blob/main/cinnamon_buns.md)<br>
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
@@ -72,6 +73,7 @@
 [Schnitzel](https://github.com/henningonsbring/Recipes/blob/main/schnitzel.md)<br>
 [Smash burger](https://github.com/henningonsbring/Recipes/blob/main/smash_burger.md)
 ## Husmanskost
+[Christmas porridge](https://github.com/henningonsbring/Recipes/blob/main/christmas_porridge.md)<br>
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
 [Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
 [Pork with onion sauce](https://github.com/henningonsbring/Recipes/blob/main/pork_with_onion_sauce.md)<br>
@@ -133,6 +135,7 @@
 [Caramelized onion](https://github.com/henningonsbring/Recipes/blob/main/caramelized_onion.md)<br>
 [Chili mayonnaise](https://github.com/henningonsbring/Recipes/blob/main/chili_mayonnaise.md)<br>
 [Chocolate balls](https://github.com/henningonsbring/Recipes/blob/main/chocolate_balls.md)<br>
+[Christmas porridge](https://github.com/henningonsbring/Recipes/blob/main/christmas_porridge.md)<br>
 [Cinnamon buns](https://github.com/henningonsbring/Recipes/blob/main/cinnamon_buns.md)<br>
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
