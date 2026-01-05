@@ -14,6 +14,8 @@
 [Xi Qin Chao Niu Rou (西芹炒牛肉丝)](https://github.com/henningonsbring/Recipes/blob/main/xi_qin_chao_niu_rou.md)
 ## Cuba
 [Mojito (non-alcoholic)](https://github.com/henningonsbring/Recipes/blob/main/mojito_non_alcoholic.md)
+## England
+[Coronation chicken](https://github.com/henningonsbring/Recipes/blob/main/coronation_chicken.md)
 ## France
 [Bacon broccolie pie](https://github.com/henningonsbring/Recipes/blob/main/bacon_broccoli_pie.md)<br>
 [Bearnaise sauce](https://github.com/henningonsbring/Recipes/blob/main/bearnaise_sauce.md)<br>
@@ -98,6 +100,7 @@
 [Bearnaise sauce](https://github.com/henningonsbring/Recipes/blob/main/bearnaise_sauce.md)<br>
 [Caramelized onion](https://github.com/henningonsbring/Recipes/blob/main/caramelized_onion.md)<br>
 [Chili mayonnaise](https://github.com/henningonsbring/Recipes/blob/main/chili_mayonnaise.md)<br>
+[Coronation chicken](https://github.com/henningonsbring/Recipes/blob/main/coronation_chicken.md)<br>
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
 [Labneh](https://github.com/henningonsbring/Recipes/blob/main/labneh.md)<br>
 [Peppercorn sauce](https://github.com/henningonsbring/Recipes/blob/main/peppercorn_sauce.md)<br>
@@ -137,6 +140,7 @@
 [Chocolate balls](https://github.com/henningonsbring/Recipes/blob/main/chocolate_balls.md)<br>
 [Christmas porridge](https://github.com/henningonsbring/Recipes/blob/main/christmas_porridge.md)<br>
 [Cinnamon buns](https://github.com/henningonsbring/Recipes/blob/main/cinnamon_buns.md)<br>
+[Coronation chicken](https://github.com/henningonsbring/Recipes/blob/main/coronation_chicken.md)<br>
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
 [Dai Wei Niu Rou (傣味牛肉)](https://github.com/henningonsbring/Recipes/blob/main/dai_wei_niu_rou.md)<br>
