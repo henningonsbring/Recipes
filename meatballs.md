@@ -16,6 +16,7 @@ Adapted from: https://www.ica.se/recept/klassiska-kottbullar-712807/
 3. Mix the minced meat with the other ingredients thoroughly
 4. Splash water on a cutting board
 5. Keep hands wet while rolling the meatballs, put rolled meatballs on the wet cutting board
-6. Fry the meatballs in butter
+6. Optional: Heat the meatballs in the oven at 200 °C using top–bottom heat (no fan) for 11 minutes
+7. Fry the meatballs in butter
 ## Serving Suggestions
 Mashed potatoes: Boil 1 kg potatoes, mash, add 2.25 dl milk, 50 g butter, 0.75 tsk salt, 2 krm white pepper, 1 krm sugar
