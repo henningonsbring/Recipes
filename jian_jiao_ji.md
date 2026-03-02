@@ -11,7 +11,7 @@
 - Oil to fry
 ## Procedure
 1. Cut the chicken into pieces
-2. Marinate the chicken in 1 tsk salt and soy sauce
+2. Marinate the chicken in 1 tsk salt, white pepper, and soy sauce
 3. Cut the garlic into coins
 4. Cut the ginger into small pieces
 5. Cut the green chili into 1.5 cm pieces
