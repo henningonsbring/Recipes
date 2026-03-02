@@ -53,6 +53,7 @@
 [Christmas porridge](https://github.com/henningonsbring/Recipes/blob/main/christmas_porridge.md)<br>
 [Cinnamon buns](https://github.com/henningonsbring/Recipes/blob/main/cinnamon_buns.md)<br>
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
+[Creamed macaroni](https://github.com/henningonsbring/Recipes/blob/main/creamed_macaroni.md)<br>
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
 [Kladdkaka](https://github.com/henningonsbring/Recipes/blob/main/kladdkaka.md)<br>
 [Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
@@ -76,6 +77,7 @@
 [Smash burger](https://github.com/henningonsbring/Recipes/blob/main/smash_burger.md)
 ## Husmanskost
 [Christmas porridge](https://github.com/henningonsbring/Recipes/blob/main/christmas_porridge.md)<br>
+[Creamed macaroni](https://github.com/henningonsbring/Recipes/blob/main/creamed_macaroni.md)<br>
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
 [Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
 [Pork with onion sauce](https://github.com/henningonsbring/Recipes/blob/main/pork_with_onion_sauce.md)<br>
@@ -142,6 +144,7 @@
 [Cinnamon buns](https://github.com/henningonsbring/Recipes/blob/main/cinnamon_buns.md)<br>
 [Coronation chicken](https://github.com/henningonsbring/Recipes/blob/main/coronation_chicken.md)<br>
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
+[Creamed macaroni](https://github.com/henningonsbring/Recipes/blob/main/creamed_macaroni.md)<br>
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
 [Dai Wei Niu Rou (傣味牛肉)](https://github.com/henningonsbring/Recipes/blob/main/dai_wei_niu_rou.md)<br>
 [Fan Qie Rou Wan Tang (番茄肉丸汤)](https://github.com/henningonsbring/Recipes/blob/main/fan_qie_rou_wan_tang.md)<br>
