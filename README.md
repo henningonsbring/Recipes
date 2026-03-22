@@ -58,7 +58,9 @@
 [Kladdkaka](https://github.com/henningonsbring/Recipes/blob/main/kladdkaka.md)<br>
 [Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
 [Pork with onion sauce](https://github.com/henningonsbring/Recipes/blob/main/pork_with_onion_sauce.md)<br>
+[Sausage stroganoff](https://github.com/henningonsbring/Recipes/blob/main/sausage_stroganoff.md)<br>
 [Skagenröra](https://github.com/henningonsbring/Recipes/blob/main/skagenrora.md)<br>
+[Spaghetti cream and bacon](https://github.com/henningonsbring/Recipes/blob/main/spaghetti_cream_and_bacon.md)<br>
 [Tosca cake](https://github.com/henningonsbring/Recipes/blob/main/tosca_cake.md)<br>
 [Venison stew](https://github.com/henningonsbring/Recipes/blob/main/venison_stew.md)<br>
 [Wallenbergare](https://github.com/henningonsbring/Recipes/blob/main/wallenbergare.md)
@@ -81,6 +83,8 @@
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
 [Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
 [Pork with onion sauce](https://github.com/henningonsbring/Recipes/blob/main/pork_with_onion_sauce.md)<br>
+[Sausage stroganoff](https://github.com/henningonsbring/Recipes/blob/main/sausage_stroganoff.md)<br>
+[Spaghetti cream and bacon](https://github.com/henningonsbring/Recipes/blob/main/spaghetti_cream_and_bacon.md)<br>
 [Wallenbergare](https://github.com/henningonsbring/Recipes/blob/main/wallenbergare.md)
 ## Mushroom dishes
 [Portobello wrapped in puff pastry](https://github.com/henningonsbring/Recipes/blob/main/portobello_wrapped_in_puff_pastry.md)
@@ -171,11 +175,13 @@
 [Remoulade sauce](https://github.com/henningonsbring/Recipes/blob/main/remoulade_sauce.md)<br>
 [Salsiccia pasta](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pasta.md)<br>
 [Salsiccia pie](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pie.md)<br>
+[Sausage stroganoff](https://github.com/henningonsbring/Recipes/blob/main/sausage_stroganoff.md)<br>
 [Schnitzel](https://github.com/henningonsbring/Recipes/blob/main/schnitzel.md)<br>
 [Shui Zhu Niu Rou (水煮牛肉)](https://github.com/henningonsbring/Recipes/blob/main/shui_zhu_niu_rou.md)<br>
 [Skagenröra](https://github.com/henningonsbring/Recipes/blob/main/skagenrora.md)<br>
 [Smash burger](https://github.com/henningonsbring/Recipes/blob/main/smash_burger.md)<br>
 [Spaghetti bolognese](https://github.com/henningonsbring/Recipes/blob/main/spaghetti_bolognese.md)<br>
+[Spaghetti cream and bacon](https://github.com/henningonsbring/Recipes/blob/main/spaghetti_cream_and_bacon.md)<br>
 [Suan Ni Bai Rou (蒜泥白肉)](https://github.com/henningonsbring/Recipes/blob/main/suan_ni_bai_rou.md)<br>
 [Tabbouleh](https://github.com/henningonsbring/Recipes/blob/main/tabbouleh.md)<br>
 [Taco pie](https://github.com/henningonsbring/Recipes/blob/main/taco_pie.md)<br>
