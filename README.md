@@ -58,6 +58,7 @@
 [Kladdkaka](https://github.com/henningonsbring/Recipes/blob/main/kladdkaka.md)<br>
 [Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
 [Pork with onion sauce](https://github.com/henningonsbring/Recipes/blob/main/pork_with_onion_sauce.md)<br>
+[Salmon gratin](https://github.com/henningonsbring/Recipes/blob/main/salmon_gratin.md)<br>
 [Sausage stroganoff](https://github.com/henningonsbring/Recipes/blob/main/sausage_stroganoff.md)<br>
 [Skagenröra](https://github.com/henningonsbring/Recipes/blob/main/skagenrora.md)<br>
 [Spaghetti cream and bacon](https://github.com/henningonsbring/Recipes/blob/main/spaghetti_cream_and_bacon.md)<br>
@@ -96,6 +97,7 @@
 [Bacon broccolie pie](https://github.com/henningonsbring/Recipes/blob/main/bacon_broccoli_pie.md)<br>
 [Potato gratin](https://github.com/henningonsbring/Recipes/blob/main/potato_gratin.md)<br>
 [Quiche Lorraine](https://github.com/henningonsbring/Recipes/blob/main/quiche_lorraine.md)<br>
+[Salmon gratin](https://github.com/henningonsbring/Recipes/blob/main/salmon_gratin.md)<br>
 [Salsiccia pie](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pie.md)<br>
 [Taco pie](https://github.com/henningonsbring/Recipes/blob/main/taco_pie.md)
 ## Salads and Salsa
@@ -173,6 +175,7 @@
 [Red lentil dahl](https://github.com/henningonsbring/Recipes/blob/main/red_lentil_dahl.md)<br>
 [Red wine sauce](https://github.com/henningonsbring/Recipes/blob/main/red_wine_sauce.md)<br>
 [Remoulade sauce](https://github.com/henningonsbring/Recipes/blob/main/remoulade_sauce.md)<br>
+[Salmon gratin](https://github.com/henningonsbring/Recipes/blob/main/salmon_gratin.md)<br>
 [Salsiccia pasta](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pasta.md)<br>
 [Salsiccia pie](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pie.md)<br>
 [Sausage stroganoff](https://github.com/henningonsbring/Recipes/blob/main/sausage_stroganoff.md)<br>
