@@ -55,6 +55,7 @@
 [Cream sauce](https://github.com/henningonsbring/Recipes/blob/main/cream_sauce.md)<br>
 [Creamed macaroni](https://github.com/henningonsbring/Recipes/blob/main/creamed_macaroni.md)<br>
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
+[Flygande Jacob](https://github.com/henningonsbring/Recipes/blob/main/flygande_jacob.md)<br>
 [Kladdkaka](https://github.com/henningonsbring/Recipes/blob/main/kladdkaka.md)<br>
 [Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
 [Pork with onion sauce](https://github.com/henningonsbring/Recipes/blob/main/pork_with_onion_sauce.md)<br>
@@ -82,6 +83,7 @@
 [Christmas porridge](https://github.com/henningonsbring/Recipes/blob/main/christmas_porridge.md)<br>
 [Creamed macaroni](https://github.com/henningonsbring/Recipes/blob/main/creamed_macaroni.md)<br>
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
+[Flygande Jacob](https://github.com/henningonsbring/Recipes/blob/main/flygande_jacob.md)<br>
 [Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
 [Pork with onion sauce](https://github.com/henningonsbring/Recipes/blob/main/pork_with_onion_sauce.md)<br>
 [Sausage stroganoff](https://github.com/henningonsbring/Recipes/blob/main/sausage_stroganoff.md)<br>
@@ -154,6 +156,7 @@
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
 [Dai Wei Niu Rou (傣味牛肉)](https://github.com/henningonsbring/Recipes/blob/main/dai_wei_niu_rou.md)<br>
 [Fan Qie Rou Wan Tang (番茄肉丸汤)](https://github.com/henningonsbring/Recipes/blob/main/fan_qie_rou_wan_tang.md)<br>
+[Flygande Jacob](https://github.com/henningonsbring/Recipes/blob/main/flygande_jacob.md)<br>
 [Gongbao Xiaqiu (宫保虾球)](https://github.com/henningonsbring/Recipes/blob/main/gongbao_xiaqiu.md)<br>
 [Hong Shao Yang Rou (红烧羊肉)](https://github.com/henningonsbring/Recipes/blob/main/hong_shao_yang_rou.md)<br>
 [Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)<br>
