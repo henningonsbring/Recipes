@@ -56,6 +56,7 @@
 [Creamed macaroni](https://github.com/henningonsbring/Recipes/blob/main/creamed_macaroni.md)<br>
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
 [Flygande Jacob](https://github.com/henningonsbring/Recipes/blob/main/flygande_jacob.md)<br>
+[Kalops](https://github.com/henningonsbring/Recipes/blob/main/kalops.md)<br>
 [Kladdkaka](https://github.com/henningonsbring/Recipes/blob/main/kladdkaka.md)<br>
 [Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
 [Pork with onion sauce](https://github.com/henningonsbring/Recipes/blob/main/pork_with_onion_sauce.md)<br>
@@ -84,6 +85,7 @@
 [Creamed macaroni](https://github.com/henningonsbring/Recipes/blob/main/creamed_macaroni.md)<br>
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
 [Flygande Jacob](https://github.com/henningonsbring/Recipes/blob/main/flygande_jacob.md)<br>
+[Kalops](https://github.com/henningonsbring/Recipes/blob/main/kalops.md)<br>
 [Meatballs](https://github.com/henningonsbring/Recipes/blob/main/meatballs.md)<br>
 [Pork with onion sauce](https://github.com/henningonsbring/Recipes/blob/main/pork_with_onion_sauce.md)<br>
 [Sausage stroganoff](https://github.com/henningonsbring/Recipes/blob/main/sausage_stroganoff.md)<br>
@@ -161,6 +163,7 @@
 [Hong Shao Yang Rou (红烧羊肉)](https://github.com/henningonsbring/Recipes/blob/main/hong_shao_yang_rou.md)<br>
 [Hui Guo Rou (回鍋肉)](https://github.com/henningonsbring/Recipes/blob/main/hui_guo_rou.md)<br>
 [Jian Jiao Ji (尖椒鸡)](https://github.com/henningonsbring/Recipes/blob/main/jian_jiao_ji.md)<br>
+[Kalops](https://github.com/henningonsbring/Recipes/blob/main/kalops.md)<br>
 [Kladdkaka](https://github.com/henningonsbring/Recipes/blob/main/kladdkaka.md)<br>
 [La Zi Ji (辣子鸡)](https://github.com/henningonsbring/Recipes/blob/main/la_zi_ji.md)<br>
 [Labneh](https://github.com/henningonsbring/Recipes/blob/main/labneh.md)<br>
