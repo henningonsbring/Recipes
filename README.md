@@ -35,6 +35,7 @@
 [Red lentil dahl](https://github.com/henningonsbring/Recipes/blob/main/red_lentil_dahl.md)<br>
 [Vindaloo](https://github.com/henningonsbring/Recipes/blob/main/vindaloo.md)
 ## Italy
+[Eggplant parmigiana](https://github.com/henningonsbring/Recipes/blob/main/eggplant_parmigiana.md)<br>
 [Lasagna](https://github.com/henningonsbring/Recipes/blob/main/lasagna.md)<br>
 [Salsiccia pasta](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pasta.md)<br>
 [Salsiccia pie](https://github.com/henningonsbring/Recipes/blob/main/salsiccia_pie.md)<br>
@@ -99,6 +100,7 @@
 [Spaghetti bolognese](https://github.com/henningonsbring/Recipes/blob/main/spaghetti_bolognese.md)
 ## Pie and Gratin
 [Bacon broccolie pie](https://github.com/henningonsbring/Recipes/blob/main/bacon_broccoli_pie.md)<br>
+[Eggplant parmigiana](https://github.com/henningonsbring/Recipes/blob/main/eggplant_parmigiana.md)<br>
 [Potato gratin](https://github.com/henningonsbring/Recipes/blob/main/potato_gratin.md)<br>
 [Quiche Lorraine](https://github.com/henningonsbring/Recipes/blob/main/quiche_lorraine.md)<br>
 [Salmon gratin](https://github.com/henningonsbring/Recipes/blob/main/salmon_gratin.md)<br>
@@ -157,6 +159,7 @@
 [Creamed macaroni](https://github.com/henningonsbring/Recipes/blob/main/creamed_macaroni.md)<br>
 [Crispy baked fish](https://github.com/henningonsbring/Recipes/blob/main/crispy_baked_fish.md)<br>
 [Dai Wei Niu Rou (傣味牛肉)](https://github.com/henningonsbring/Recipes/blob/main/dai_wei_niu_rou.md)<br>
+[Eggplant parmigiana](https://github.com/henningonsbring/Recipes/blob/main/eggplant_parmigiana.md)<br>
 [Fan Qie Rou Wan Tang (番茄肉丸汤)](https://github.com/henningonsbring/Recipes/blob/main/fan_qie_rou_wan_tang.md)<br>
 [Flygande Jacob](https://github.com/henningonsbring/Recipes/blob/main/flygande_jacob.md)<br>
 [Gongbao Xiaqiu (宫保虾球)](https://github.com/henningonsbring/Recipes/blob/main/gongbao_xiaqiu.md)<br>
