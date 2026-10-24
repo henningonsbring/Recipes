@@ -26,6 +26,5 @@
 6. Add zucchini, garlic, cinnamon, cumin, ginger, curry, cayenne, and paprika powder for 5 min on medium heat
 7. Add 2 dl water
 8. Add the vegetable bouillon cube, lentils, coconut milk, crushed tomatoes, salt, and black pepper
-9. Let the content of the pot boil for 15 min
-10. Add the spinach and let the dahl boil for another 5 min
-11. Serve with rice and Turkish yoghurt
+9. Let the content of the pot boil for 20 min
+10. Serve with rice and Turkish yoghurt
