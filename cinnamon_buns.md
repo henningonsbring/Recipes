@@ -40,6 +40,6 @@
 19. Let the buns raise under a kitchen towel for 30 minutes
 20. Brush the buns with beaten egg
 21. Sprinkle pearl sugar over the buns
-21. Bake the buns in the oven at 235 °C until they are golden brown (about 8 minutes)
-22. Let the buns cool down under a kitchen towel, which prevents them from getting dry
-23. Use freezer as long term storage in plastic bags (defrost in the same bag for about 1 hour)
+22. Bake the buns in the oven at 235 °C until they are golden brown (about 8 minutes)
+23. Let the buns cool down under a kitchen towel, which prevents them from getting dry
+24. Use freezer as long term storage in plastic bags (defrost in the same bag for about 1 hour)
